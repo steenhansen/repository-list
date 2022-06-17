@@ -1,15 +1,15 @@
-| Functional GitHub Projects        | WebSite                                       | Technologies                                                              |
-| --------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------- |
-| [type-czech-phone-recipes][rec_g] | [Online Recipes][rec_w]                       | Node.js, SSR, OAuth2, Selenium, MongoDB, React-Hooks, Storybook, Tailwind |
-| [type-czech][tcz_g]               | [NPM Package][tcz_n]                          | Javascript runtime type checking in the spirit of clojure.spec            |
-| [type-czech-always-on][aon_g]     | [Online Type-Czech Example][aon_w] (sleeping) | TypeCzech runtime type checking example with on/off switch                |
-| [rxjs-breakout][brk_g]            | [Online Breakout][brk_w]                      | RxJs, canvas, immutablejs                                                 |
-| [crash-sms][sms_g]                | [Online Site Monitor][sms_w]                  | Clojure, SMS, DynamoDB                                                    |
-| [rxjs-label-maker][lbl_g]         | [Online Example Label Maker][lbl_w]           | RxJs                                                                      |
-| [rxjs-drag-n-drop][drg_g]         | [Online RxJs Drag and Drop][drg_w]            | RxJs                                                                      |
-| [clojure-text-diff ][ctd_g]       |                                               | Clojure                                                                   |
-| [Either-Monad][mon_g]             |                                               | Either Monad                                                              |
-| [Ramda-Transducers ][ram_g]       |                                               | Ramda Transducers                                                         |
+| Functional&nbsp;GitHub&nbsp;Projects | WebSite                                       | Technologies                                                              |
+| ------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------- |
+| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                       | Node.js, SSR, OAuth2, Selenium, MongoDB, React-Hooks, Storybook, Tailwind |
+| [type-czech][tcz_g]                  | [NPM Package][tcz_n]                          | Javascript runtime type checking in the spirit of clojure.spec            |
+| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] (sleeping) | TypeCzech runtime type checking example with on/off switch                |
+| [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                      | RxJs, canvas, immutablejs                                                 |
+| [crash-sms][sms_g]                   | [Online Site Monitor][sms_w]                  | Clojure, SMS, DynamoDB                                                    |
+| [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]           | RxJs                                                                      |
+| [rxjs-drag-n-drop][drg_g]            | [Online RxJs Drag and Drop][drg_w]            | RxJs                                                                      |
+| [clojure-text-diff ][ctd_g]          |                                               | Clojure                                                                   |
+| [Either-Monad][mon_g]                |                                               | Either Monad                                                              |
+| [Ramda-Transducers ][ram_g]          |                                               | Ramda Transducers                                                         |
 
 [functional github projects]: f_g_b
 [rec_g]: https://github.com/steenhansen/type-czech-phone-recipes
@@ -30,13 +30,13 @@
 [mon_g]: https://gist.github.com/steenhansen/f9a9e9eee2fd563e378d8ddfce98cf0a
 [ram_g]: https://gist.github.com/steenhansen/3e8c320725c6196c9a259661473dec42
 
-| Containers GitHub Projects               | WebSite                                  | Technologies                                                                |
-| ---------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
-| [sffaudio-search-docker-compose ][sli_g] | [Online Search SFF-Audio Content][sli_w] | Docker-Compose on Linode, Neo4j-Graph-DB, SVG, SPA                          |
-| [sffaudio-search-docker-run ][swi_g]     |                                          | Docker-Run on local Windows                                                 |
-| [sffaudio-search-kubernetes][sku_g]      |                                          | Kubernetes Linode example, is turned off                                    |
-| [sffaudio-graph-ql ][sgr_g]              | [Online Graph-QL][sgr_w]                 | GraphQL - Press the triangular "Run" button for an 'Arthur C. Clark' search |
-|                                          | [Online JSON][sgr_j]                     | PDF/Podcast/MP3s media that is written by 'Arthur C. Clark'                 |
+| Docker&nbsp;Containers&nbsp;and Databases | WebSite                                  | Technologies                                                                |
+| ----------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
+| [sffaudio-search-docker-compose ][sli_g]  | [Online Search SFF-Audio Content][sli_w] | Docker-Compose on Linode, Neo4j-Graph-DB, SVG, SPA                          |
+| [sffaudio-search-docker-run ][swi_g]      |                                          | Docker-Run on local Windows with Neo4j-Graph-DB                             |
+| [sffaudio-search-kubernetes][sku_g]       |                                          | Kubernetes Linode example, is turned off                                    |
+| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w]                 | GraphQL - Press the triangular "Run" button for an 'Arthur C. Clark' search |
+|                                           | [Online JSON][sgr_j]                     | PDF/Podcast/MP3s media that is written by 'Arthur C. Clark'                 |
 
 [containers github projects]: c_g_p
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
@@ -47,7 +47,7 @@
 [sgr_w]: https://sffaudio-graph-ql.herokuapp.com/graphiql?operationName=serch_ql&query=query%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20%20%20%20%20%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20book%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%2C%0A%20%20%20%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20possiblebook%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%2C%0A%20%20%20%20...%20on%20PdfMedia%20%7B%20ID%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20book%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20issues%20%7B%20url%20publisher%20pages%20%7D%20%20%20%7D%0A%20%20%7D%0A%7D%0A&variables=%7B%0A%20%20%22search_parameter%22%3A%20%22Clarke%22%0A%7D
 [sgr_j]: https://sffaudio-graph-ql.herokuapp.com/graphql?operationName=serch_ql&query=%0Aquery%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%7D%2C%0A%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%7D%2C%0A%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20book%20%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%20about%0A%20possiblebook%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20PdfMedia%20%7B%20ID%0A%20book%20%7B%20author%20title%20%7D%0A%20issues%20%7B%20url%20publisher%20pages%20%7D%20%7D%0A%20%7D%0A%7D%20&variables=%7B%20%22search_parameter%22%3A%20%22clarke%22%7D
 
-| OO GitHub Projects                   | WebSite                                              | Technologies                                                    |
+| Object Oriented GitHub Projects      | WebSite                                              | Technologies                                                    |
 | ------------------------------------ | ---------------------------------------------------- | --------------------------------------------------------------- |
 | [electric-snakes][elc_g]             | [Online Multi-Computer Game][elc_w] (sleeping)       | Typescript websockets immutable.js                              |
 | [podcast-downloader][dsk_g]          | [Download Desktop EXE][dsk_w]                        | Desktop exe podcast downloader written in Lazarus/Delphi        |
