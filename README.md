@@ -30,13 +30,13 @@
 [mon_g]: https://gist.github.com/steenhansen/f9a9e9eee2fd563e378d8ddfce98cf0a
 [ram_g]: https://gist.github.com/steenhansen/3e8c320725c6196c9a259661473dec42
 
-| Docker&nbsp;Containers&nbsp;and Databases | WebSite                                  | Technologies                                                                |
-| ----------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
-| [sffaudio-search-docker-compose ][sli_g]  | [Online Search SFF-Audio Content][sli_w] | Docker-Compose on Linode, Neo4j-Graph-DB, SVG, SPA                          |
-| [sffaudio-search-docker-run ][swi_g]      |                                          | Docker-Run on local Windows with Neo4j-Graph-DB                             |
-| [sffaudio-search-kubernetes][sku_g]       |                                          | Kubernetes Linode example, is turned off                                    |
-| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w]                 | GraphQL - Press the triangular "Run" button for an 'Arthur C. Clark' search |
-|                                           | [Online JSON][sgr_j]                     | PDF/Podcast/MP3s media that is written by 'Arthur C. Clark'                 |
+| Docker&nbsp;Containers&nbsp;and Databases | WebSite                                  | Technologies                                                                   |
+| ----------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------ |
+| [sffaudio-search-docker-compose ][sli_g]  | [Online Search SFF-Audio Content][sli_w] | Docker-Compose on Linode<br>with Neo4j-Graph-DB, SVG, SPA                      |
+| [sffaudio-search-docker-run ][swi_g]      |                                          | Docker-Run on local Windows<br>with Neo4j-Graph-DB                             |
+| [sffaudio-search-kubernetes][sku_g]       |                                          | Kubernetes Linode example<br>is turned off                                     |
+| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w]                 | GraphQL - Press the triangular "Run"<br>button for an 'Arthur C. Clark' search |
+|                                           | [Online JSON][sgr_j]                     | PDF/Podcast/MP3s media that is written<br> by 'Arthur C. Clark'                |
 
 [containers github projects]: c_g_p
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
