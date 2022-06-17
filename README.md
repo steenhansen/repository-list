@@ -57,7 +57,7 @@
 |                                      | [Online Example Gmap-DragDrops][map_w] (sleeping)    | OO inheritance                                                  |
 | [Isomorphic-React-on-Heroku ][iso_g] | [Online Search/Sort/Filter Site - Podcast][pod_w]    | PHP                                                             |
 |                                      | [Online Search/Sort/Filter Component - PDF][pdf_w]   | React, MongoDB bare Heroku component                            |
-|                                      | [Online Search/Sort/Filter DB - MP3][rsd_w]          | Google Sheet as a database                                      |
+|                                      | [Online Search/Sort/Filter DB][rsd_w]                | Google Sheet as a database                                      |
 
 [ oo github projects]: oo_g_p
 [elc_g]: https://github.com/steenhansen/electric-snakes
