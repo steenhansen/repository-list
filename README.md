@@ -9,6 +9,7 @@
 | [rxjs-drag-n-drop][drg_g]            | [Online RxJs Drag and Drop][drg_w]            | RxJs                                                                      |
 | [clojure-text-diff ][ctd_g]          |                                               | Clojure                                                                   |
 | [Either-Monad][mon_g]                |                                               | Either Monad                                                              |
+| [Validation-Monad][val_g]            |                                               | Validation Monad                                                          |
 | [Ramda-Transducers ][ram_g]          |                                               | Ramda Transducers                                                         |
 
 [functional github projects]: f_g_b
@@ -28,6 +29,7 @@
 [drg_w]: https://steenhansen.github.io/rxjs-drag-n-drop/
 [ctd_g]: https://github.com/steenhansen/clojure-text-diff
 [mon_g]: https://gist.github.com/steenhansen/f9a9e9eee2fd563e378d8ddfce98cf0a
+[val_g]: https://gist.github.com/steenhansen/5a0dbad5388a79ebb900b257fc7a129c
 [ram_g]: https://gist.github.com/steenhansen/3e8c320725c6196c9a259661473dec42
 
 | Docker&nbsp;Containers&nbsp;and Databases | WebSite                                  | Technologies                                                                   |
