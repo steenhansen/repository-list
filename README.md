@@ -57,7 +57,7 @@
 |                                      | [Online Example React-Hover-Grids][rhg_w] (sleeping) | Nodejs Image processing                                     |
 | [gmap-dragdrop-react][map_g]         | [NPM Package][map_n]                                 | React component enabling Drag/Drop<br>to/from Google Maps   |
 |                                      | [Online Example Gmap-DragDrops][map_w] (sleeping)    | Object Oriented inheritance                                 |
-| [Isomorphic-React-on-Heroku ][iso_g] | [Online Search/Sort/Filter Site - Podcast][pod_w]    | PHP                                                         |
+| [Isomorphic-React-on-Heroku ][iso_g] | [Online Search/Sort/Filter Site - Podcast][pod_w]    | JavaScript Prototypal Inheritance                           |
 |                                      | [Online Search/Sort/Filter Component - PDF][pdf_w]   | React, MongoDB bare Heroku component                        |
 |                                      | [Online Search/Sort/Filter DB][rsd_w]                | Google Sheet as a database                                  |
 
