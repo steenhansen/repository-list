@@ -85,3 +85,7 @@
 ![PHP Lowest Paid Language](https://cdn.sstatic.net/insights/Img/Survey/2019/salary_language-1.svg?v=d63c4a852014)
 
 ![PHP Lowest Paid Language](https://media-exp1.licdn.com/dms/image/C5112AQHyvNSEydBeaw/article-cover_image-shrink_720_1280/0/1521536993350?e=1661385600&v=beta&t=6wJRX9782XM16K4tijqBvlQJ4Ezufs2PEonZ3pz__JA)
+
+[Hansen Displays](https://web.archive.org/web/20110204235449/http://hansendisplays.com/)
+
+[Persistant RAM Cartridge](https://atariage.com/forums/topic/287343-the-persistent-ram-cartridge/)
