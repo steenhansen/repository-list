@@ -96,8 +96,8 @@
 
 ---
 
-[Hansen Displays](https://web.archive.org/web/20110204235449/http://hansendisplays.com/)
+[Hansen Displays, 1/3 Owner](https://web.archive.org/web/20110204235449/http://hansendisplays.com/)
 
-[Persistant RAM Cartridge](https://atariage.com/forums/topic/287343-the-persistent-ram-cartridge/)
+[Persistant RAM Cartridge, 1/3 Owner](https://atariage.com/forums/topic/287343-the-persistent-ram-cartridge/)
 
 [Ikea Standing Desk Blog](https://www.jerkersearcher.com/)
