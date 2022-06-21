@@ -1,6 +1,6 @@
 | Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                              |
 | ------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | Node.js, SSR, OAuth2, Selenium, MongoDB, React-Hooks, Storybook, Tailwind |
+| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Storybook, Tailwind |
 | [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec            |
 | [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch                |
 | [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                 |
