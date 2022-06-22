@@ -1,16 +1,16 @@
-| Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                 |
-| ------------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Storybook, Tailwind |
-| [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec               |
-| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch                   |
-| [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                    |
-| [crash-sms][sms_g]                   | [Online Site Monitor][sms_w]                             | Clojure, SMS, DynamoDB                                                       |
-| [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJs                                                                         |
-| [rxjs-drag-n-drop][drg_g]            | [Online RxJs Drag and Drop][drg_w]                       | RxJs                                                                         |
-| [clojure-text-diff ][ctd_g]          |                                                          | Clojure                                                                      |
-| [Either-Monad][mon_g]                |                                                          | Either Monad                                                                 |
-| [Validation-Monad][val_g]            |                                                          | Validation Monad                                                             |
-| [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                            |
+| Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                                                                        |
+| ------------------------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Storybook, Tailwind,<br> Isomorphic HMR &amp; ESM for development via Vite |
+| [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                      |
+| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                  |
+| [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                                                                           |
+| [crash-sms][sms_g]                   | [Online Site Monitor][sms_w]                             | Clojure, SMS, DynamoDB                                                                                                              |
+| [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJs                                                                                                                                |
+| [rxjs-drag-n-drop][drg_g]            | [Online RxJs Drag and Drop][drg_w]                       | RxJs                                                                                                                                |
+| [clojure-text-diff ][ctd_g]          |                                                          | Clojure                                                                                                                             |
+| [Either-Monad][mon_g]                |                                                          | Either Monad                                                                                                                        |
+| [Validation-Monad][val_g]            |                                                          | Validation Monad                                                                                                                    |
+| [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                                                                                   |
 
 [rec_g]: https://github.com/steenhansen/type-czech-phone-recipes
 [rec_w]: https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com
@@ -58,7 +58,7 @@
 | [gmap-dragdrop-react][map_g]        | [NPM Package][map_n]                                                    | React component enabling Drag/Drop<br>to/from Google Maps, not RxJS            |
 |                                     | [Online Example Gmap-DragDrops][map_w] <sup>[sleeping]</sup>            | Object Oriented inheritance                                                    |
 | [Isomorphic-React-on-Heroku][iso_g] | [Heroku Search/Sort/Filter Podcasts][pod_h] -- [Google Sheet DB][pod_s] | [Podcast SFFaudio.com WordPress page][pod_w] JavaScript Prototypal Inheritance |
-|                                     | [Heroku Search/Sort/Filter PDFs][pdf_h] -- [Google Sheet DB][pdf_s]     | [PDF SFFaudio.com WordPress page][pdf_w] React, MongoDB bare Heroku component  |
+|                                     | [Heroku Search/Sort/Filter PDFs][pdf_h] -- [Google Sheet DB][pdf_s]     | [PDF SFFaudio.com WordPress page][pdf_w] React, MongoDB, SSR                   |
 |                                     | [Heroku Search/Sort/Filter MP3s][rsd_h] -- [Google Sheet DB][rsd_s]     | [MP3 SFFaudio.com WordPress page][rsd_w] Google Sheet as a read-only database  |
 | [php-google-api-example][php_g]     | Was a PHP library that updated Google Sheets                            | Deprecated - Google Sheets as a read/write database from PHP                   |
 | [sffaudio-podcasts-angular][ang_g]  | Was a replaced Angular version of Isomorphic-React-on-Heroku            | Deprecated - by use of React                                                   |
