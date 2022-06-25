@@ -51,7 +51,7 @@
 
 | OO GitHub Projects                  | WebSite                                                                 | Technologies                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [electric-snakes][elc_g]            | [Online Multi-Computer Game][elc_w] <sup>[sleeping]</sup>               | Typescript websockets immutable.js                                             |
+| [electric-snakes][elc_g]            | [Online Multi-Computer Game][elc_w] <sup>[sleeping]</sup>               | Typescript, websockets, Redux, immutable.js                                             |
 | [podcast-downloader][dsk_g]         | [Download Desktop EXE][dsk_w]                                           | Desktop exe podcast downloader<br>written in Lazarus/Delphi                    |
 | [react-hover-grid][rhg_g]           | [React-Hover-Grids NPM Package][rhg_n]                                  | React component for image grids in OO                                          |
 |                                     | [React-Hover-Grids Online Example][rhg_w] <sup>[sleeping]</sup>         | Nodejs Image processing                                                        |
