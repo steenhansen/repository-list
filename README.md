@@ -1,16 +1,16 @@
-| Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                                                                        |
-| ------------------------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, Storybook, Tailwind, Isomorphic HMR &amp; ESM for development via Vite |
-| [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                      |
-| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                  |
-| [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                                                                           |
-| [crash-sms][sms_g]                   | [Online Site Monitor][sms_w]                             | Clojure, SMS, DynamoDB                                                                                                              |
-| [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJs &amp; [Snap-Shot Tests](https://steenhansen.github.io/rxjs-label-maker/tests/testing-frame.html), labelled 'CHECK', that pass in Chrome, and now fail in Firefox                                                                                                                                 |
-| [rxjs-drag-n-drop][drg_g]            | [Online RxJs Drag and Drop][drg_w]                       | RxJs                                                                                                                                |
-| [clojure-text-diff ][ctd_g]          |                                                          | Clojure                                                                                                                             |
-| [Either-Monad][mon_g]                |                                                          | Either Monad                                                                                                                        |
-| [Validation-Monad][val_g]            |                                                          | Validation Monad                                                                                                                    |
-| [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                                                                                   |
+| Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                                                                                                          |
+| ------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, Storybook, Tailwind, Isomorphic HMR &amp; ESM for development via Vite                                |
+| [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                                                        |
+| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                    |
+| [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                                                                                                             |
+| [crash-sms][sms_g]                   | [Online Site Monitor][sms_w]                             | Clojure, SMS, DynamoDB                                                                                                                                                |
+| [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJs &amp; [Snap-Shot Tests](https://steenhansen.github.io/rxjs-label-maker/tests/testing-frame.html), labelled 'CHECK', that pass in Chrome, and now fail in Firefox |
+| [rxjs-drag-n-drop][drg_g]            | [Online RxJs Drag and Drop][drg_w]                       | RxJs                                                                                                                                                                  |
+| [clojure-text-diff ][ctd_g]          |                                                          | Clojure                                                                                                                                                               |
+| [Either-Monad][mon_g]                |                                                          | Either Monad                                                                                                                                                          |
+| [Validation-Monad][val_g]            |                                                          | Validation Monad                                                                                                                                                      |
+| [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                                                                                                                     |
 
 [rec_g]: https://github.com/steenhansen/type-czech-phone-recipes
 [rec_w]: https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com
@@ -51,12 +51,12 @@
 
 | OO GitHub Projects                  | WebSite                                                                 | Technologies                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [electric-snakes][elc_g]            | [Online Multi-Computer Game][elc_w] <sup>[sleeping]</sup>               | Typescript, websockets, Redux, immutable.js                                             |
+| [electric-snakes][elc_g]            | [Online Multi-Computer Game][elc_w] <sup>[sleeping]</sup>               | Typescript, websockets, Redux, immutable.js                                    |
 | [podcast-downloader][dsk_g]         | [Download Desktop EXE][dsk_w]                                           | Desktop exe podcast downloader<br>written in Lazarus/Delphi                    |
 | [react-hover-grid][rhg_g]           | [React-Hover-Grids NPM Package][rhg_n]                                  | React component for image grids in OO                                          |
-|                                     | [React-Hover-Grids Online Example][rhg_w] <sup>[sleeping]</sup>         | Nodejs Image processing                                                        |
+|                                     | [React-Hover-Grids Online Example][rhg_w] <sup>[sleeping]</sup>         | Nodejs Image processing, [example Hover GitHub][rhg_e]                         |
 | [gmap-dragdrop-react][map_g]        | [Gmap-DragDrops NPM Package][map_n]                                     | React component enabling Drag/Drop<br>to/from Google Maps, not RxJS            |
-|                                     | [Gmap-DragDrops Online Example][map_w] <sup>[sleeping]</sup>            | Object Oriented inheritance                                                    |
+|                                     | [Gmap-DragDrops Online Example][map_w] <sup>[sleeping]</sup>            | Object Oriented inheritance, [example Map GitHub][map_e]                       |
 | [Isomorphic-React-on-Heroku][iso_g] | [Heroku Search/Sort/Filter Podcasts][pod_h] -- [Google Sheet DB][pod_s] | [Podcast SFFaudio.com WordPress page][pod_w] JavaScript Prototypal Inheritance |
 |                                     | [Heroku Search/Sort/Filter PDFs][pdf_h] -- [Google Sheet DB][pdf_s]     | [PDF SFFaudio.com WordPress page][pdf_w] React, MongoDB, SSR                   |
 |                                     | [Heroku Search/Sort/Filter MP3s][rsd_h] -- [Google Sheet DB][rsd_s]     | [MP3 SFFaudio.com WordPress page][rsd_w] Google Sheet as a read-only database  |
@@ -79,28 +79,16 @@
 [rhg_g]: https://github.com/steenhansen/react-hover-grid
 [rhg_n]: https://www.npmjs.com/package/react-hover-grid
 [rhg_w]: https://react-hover-grid.herokuapp.com
+[rhg_e]: https://github.com/steenhansen/react-hover-grid-examples
 [map_g]: https://github.com/steenhansen/gmap-dragdrop-react
 [map_n]: https://www.npmjs.com/package/gmap-dragdrop-react
 [map_w]: https://gddr.herokuapp.com/maps
+[map_e]: https://github.com/steenhansen/gmap-dragdrop-examples
 [iso_g]: https://github.com/steenhansen/Isomorphic-React-on-Heroku
 [php_g]: https://github.com/steenhansen/php-google-api-example
 [ang_g]: https://github.com/steenhansen/sffaudio-podcasts-angular
 
 <div align="center">[sleeping] A slow to start free Heroku site</div>
-
-### Why Not PHP ?
-
-[From Stack Overflow Developer Survey Results 2015](https://gist.github.com/juanpabloaj/fdab1813cf064785aa2310ddb90d754a) PHP lowest paid in 2015 - blue
-
-![Languages 2015](https://camo.githubusercontent.com/b6a745f90993164852eea792938b695c54c5e26c63897f4b0e953e232369c7d5/68747470733a2f2f692e696d6775722e636f6d2f486c634b7a37732e706e67)
-
-[From Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018#work-_-salary-and-experience-by-language) PHP lowest paid in 2018
-
-![Languages 2018](https://cdn.sstatic.net/insights/Img/Survey/2018/salary_language-1.svg?v=3f273db9f512)
-
-[From Stack Overflow Developer Survey Results 2021](https://insights.stackoverflow.com/survey/2021#top-paying-technologies-programming-scripting-and-markup-languages) PHP second lowest paid in 2021
-
-![Languages 2021](https://www.i-programmer.info/images/stories/News/2021/aug/B/sosallangexp.JPG)
 
 ---
 
@@ -109,3 +97,17 @@
 [Persistant RAM Cartridge, 1/3 Owner](https://atariage.com/forums/topic/287343-the-persistent-ram-cartridge/) - [Persistant RAM Image](/images/persistant-ram-front.jpg)
 
 [Ikea Standing Desk Blog](https://www.jerkersearcher.com/)
+
+---
+
+[From Stack Overflow Developer Survey Results 2015](https://gist.github.com/juanpabloaj/fdab1813cf064785aa2310ddb90d754a)
+
+[Languages 2015](https://camo.githubusercontent.com/b6a745f90993164852eea792938b695c54c5e26c63897f4b0e953e232369c7d5/68747470733a2f2f692e696d6775722e636f6d2f486c634b7a37732e706e67)
+
+[From Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018#work-_-salary-and-experience-by-language)
+
+[Languages 2018](https://cdn.sstatic.net/insights/Img/Survey/2018/salary_language-1.svg?v=3f273db9f512)
+
+[From Stack Overflow Developer Survey Results 2021](https://insights.stackoverflow.com/survey/2021#top-paying-technologies-programming-scripting-and-markup-languages)
+
+[Languages 2021](https://www.i-programmer.info/images/stories/News/2021/aug/B/sosallangexp.JPG)
