@@ -1,6 +1,6 @@
 | Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                                                                                                          |
 | ------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, Storybook, Tailwind, Isomorphic HMR &amp; ESM for development via Vite                                |
+| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite                                |
 | [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                                                        |
 | [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                    |
 | [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                                                                                                             |
@@ -100,14 +100,8 @@
 
 ---
 
-[From Stack Overflow Developer Survey Results 2015](https://gist.github.com/juanpabloaj/fdab1813cf064785aa2310ddb90d754a)
-
-[Languages 2015](https://camo.githubusercontent.com/b6a745f90993164852eea792938b695c54c5e26c63897f4b0e953e232369c7d5/68747470733a2f2f692e696d6775722e636f6d2f486c634b7a37732e706e67)
-
 [From Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018#work-_-salary-and-experience-by-language)
 
 [Languages 2018](https://cdn.sstatic.net/insights/Img/Survey/2018/salary_language-1.svg?v=3f273db9f512)
 
-[From Stack Overflow Developer Survey Results 2021](https://insights.stackoverflow.com/survey/2021#top-paying-technologies-programming-scripting-and-markup-languages)
 
-[Languages 2021](https://www.i-programmer.info/images/stories/News/2021/aug/B/sosallangexp.JPG)
