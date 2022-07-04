@@ -100,8 +100,6 @@
 
 ---
 
-[From Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018#work-_-salary-and-experience-by-language)
-
-[Languages 2018](https://cdn.sstatic.net/insights/Img/Survey/2018/salary_language-1.svg?v=3f273db9f512)
+[PHP &amp; Delphi Salaries](https://cdn.sstatic.net/insights/Img/Survey/2018/salary_language-1.svg?v=3f273db9f512)
 
 
