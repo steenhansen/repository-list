@@ -37,8 +37,8 @@
 | [sffaudio-search-docker-compose ][sli_g]  | [Online Search SFF-Audio Content][sli_w] | Docker-Compose on Linode<br>with Neo4j-Graph-DB, SVG, SPA                      |
 | [sffaudio-search-docker-run ][swi_g]      | [Docker Image][swi_d]                    | Docker-Run on local Windows<br>with Neo4j-Graph-DB                             |
 | [sffaudio-search-kubernetes][sku_g]       | [Docker Image][sku_d]                    | Kubernetes Linode example<br>is turned off                                     |
-| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w]                 | GraphQL - Press the triangular "Run"<br>button for an 'Arthur C. Clark' search |
-|                                           | [Online JSON][sgr_j]                     | PDF/Podcast/MP3s media that is written<br> by 'Arthur C. Clark'                |
+| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w] <sup>[sleeping]</sup>                | GraphQL - Press the triangular "Run"<br>button for an 'Arthur C. Clark' search |
+|                                           | [Online JSON][sgr_j] <sup>[sleeping]</sup>                     | PDF/Podcast/MP3s media that is written<br> by 'Arthur C. Clark'                |
 
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
