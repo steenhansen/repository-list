@@ -7,7 +7,7 @@
 | [crash-sms][sms_g]                   | [Online Site Monitor][sms_w]                             | Clojure, SMS, DynamoDB                                                                                                                                                |
 | [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJs &amp; [Snap-Shot Tests](https://steenhansen.github.io/rxjs-label-maker/tests/testing-frame.html), labelled 'CHECK', that pass in Chrome, and now fail in Firefox |
 | [rxjs-drag-n-drop][drg_g]            | [Online RxJs Drag and Drop][drg_w]                       | RxJs                                                                                                                                                                  |
-| [clojure-text-diff ][ctd_g]          |                                                          | Clojure                                                                                                                                                               |
+|                                      | [Authorization Via RxJs Subject Variables][aut_c]                       | RxJs Subjects &amp; BehaviorSubject                                                                                                                                                                  || [clojure-text-diff ][ctd_g]          |                                                          | Clojure                                                                                                                                                               |
 | [Either-Monad][mon_g]                |                                                          | Either Monad                                                                                                                                                          |
 | [Validation-Monad][val_g]            |                                                          | Validation Monad                                                                                                                                                      |
 | [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                                                                                                                     |
@@ -26,6 +26,7 @@
 [lbl_w]: https://steenhansen.github.io/rxjs-label-maker/
 [drg_g]: https://github.com/steenhansen/rxjs-drag-n-drop
 [drg_w]: https://steenhansen.github.io/rxjs-drag-n-drop/
+[aut_c]: https://codepen.io/steen-hansen/pen/XWEXYgQ
 [ctd_g]: https://github.com/steenhansen/clojure-text-diff
 [mon_g]: https://gist.github.com/steenhansen/f9a9e9eee2fd563e378d8ddfce98cf0a
 [val_g]: https://gist.github.com/steenhansen/5a0dbad5388a79ebb900b257fc7a129c
