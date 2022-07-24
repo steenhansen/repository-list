@@ -1,6 +1,6 @@
 | Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                                                                                                          |
 | ------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite                                |
+| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite, Github [CI/CD][rec_c]                                 |
 | [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                                                        |
 | [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                    |
 | [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                                                                                                             |
@@ -14,6 +14,7 @@
 
 [rec_g]: https://github.com/steenhansen/type-czech-phone-recipes
 [rec_w]: https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com
+[rec_c]: https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/2725391480
 [tcz_g]: https://github.com/steenhansen/type-czech
 [tcz_n]: https://www.npmjs.com/package/type-czech
 [aon_g]: https://github.com/steenhansen/type-czech-always-on
