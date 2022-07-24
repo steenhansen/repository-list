@@ -14,7 +14,7 @@
 
 [rec_g]: https://github.com/steenhansen/type-czech-phone-recipes
 [rec_w]: https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com
-[rec_c]: https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/2725391480
+[rec_c]: https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/2728792562
 [tcz_g]: https://github.com/steenhansen/type-czech
 [tcz_n]: https://www.npmjs.com/package/type-czech
 [aon_g]: https://github.com/steenhansen/type-czech-always-on
