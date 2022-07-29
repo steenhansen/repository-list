@@ -1,6 +1,6 @@
 | Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                                                                                                          |
 | ------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite, Github [CI/CD][rec_c]                                 |
+| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | Node.js, vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite, Github [CI/CD][rec_c]                                 |
 | [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                                                        |
 | [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                    |
 | [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJs, canvas, immutablejs                                                                                                                                             |
@@ -33,13 +33,13 @@
 [val_g]: https://gist.github.com/steenhansen/5a0dbad5388a79ebb900b257fc7a129c
 [ram_g]: https://gist.github.com/steenhansen/3e8c320725c6196c9a259661473dec42
 
-| Docker&nbsp;Containers&nbsp;and Databases | WebSite                                  | Technologies                                                                   |
-| ----------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------ |
-| [sffaudio-search-docker-compose ][sli_g]  | [Online Search SFF-Audio Content][sli_w] | Docker-Compose on Linode<br>with Neo4j-Graph-DB, SVG, SPA                      |
-| [sffaudio-search-docker-run ][swi_g]      | [Docker Image][swi_d]                    | Docker-Run on local Windows<br>with Neo4j-Graph-DB                             |
-| [sffaudio-search-kubernetes][sku_g]       | [Docker Image][sku_d]                    | Kubernetes Linode example<br>is turned off                                     |
-| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w] <sup>[sleeping]</sup>                | GraphQL - Press the triangular "Run"<br>button for an 'Arthur C. Clark' search |
-|                                           | [Online JSON][sgr_j] <sup>[sleeping]</sup>                     | PDF/Podcast/MP3s media that is written<br> by 'Arthur C. Clark'                |
+| Docker&nbsp;Containers&nbsp;and Databases | WebSite                                        | Technologies                                                                      |
+| ----------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------- |
+| [sffaudio-search-docker-compose ][sli_g]  | [Online Search SFF-Audio Content][sli_w]       | Docker-Compose on Linode<br>with Node.js, Neo4j-Graph-DB, SVG, SPA                |
+| [sffaudio-search-docker-run ][swi_g]      | [Docker Image][swi_d]                          | Docker-Run on local Windows<br>with Node.js, Neo4j-Graph-DB, SVG, SPA             |
+| [sffaudio-search-kubernetes][sku_g]       | [Docker Image][sku_d]                          | Kubernetes version of above Docker example<br> that costs $10 more a month to run |
+| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w] <sup>[sleeping]</sup> | GraphQL - Press the triangular "Run"<br>button for an 'Arthur C. Clark' search    |
+|                                           | [Online JSON][sgr_j] <sup>[sleeping]</sup>     | PDF/Podcast/MP3s media that is written<br> by 'Arthur C. Clark'                   |
 
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
@@ -53,7 +53,7 @@
 
 | OO GitHub Projects                  | WebSite                                                                 | Technologies                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [electric-snakes][elc_g]            | [Online Multi-Computer Game][elc_w] <sup>[sleeping]</sup>               | Typescript, websockets, Redux, immutable.js                                    |
+| [electric-snakes][elc_g]            | [Online Multi-Computer Game][elc_w] <sup>[sleeping]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                                    |
 | [podcast-downloader][dsk_g]         | [Download Desktop EXE][dsk_w]                                           | Desktop exe podcast downloader<br>written in Lazarus/Delphi                    |
 | [react-hover-grid][rhg_g]           | [React-Hover-Grids NPM Package][rhg_n]                                  | React component for image grids in OO                                          |
 |                                     | [React-Hover-Grids Online Example][rhg_w] <sup>[sleeping]</sup>         | Nodejs Image processing, [example Hover GitHub][rhg_e]                         |
