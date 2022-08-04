@@ -62,7 +62,7 @@
 | [Isomorphic-React-on-Heroku][iso_g] | [Heroku Search/Sort/Filter Podcasts][pod_h] -- [Google Sheet DB][pod_s] | [Podcast SFFaudio.com WordPress page][pod_w] JavaScript Prototypal Inheritance |
 |                                     | [Heroku Search/Sort/Filter PDFs][pdf_h] -- [Google Sheet DB][pdf_s]     | [PDF SFFaudio.com WordPress page][pdf_w] React, MongoDB, SSR                   |
 |                                     | [Heroku Search/Sort/Filter MP3s][rsd_h] -- [Google Sheet DB][rsd_s]     | [MP3 SFFaudio.com WordPress page][rsd_w] Google Sheet as a read-only database  |
-| [php-google-api-example][php_g]     | Was a PHP library that updated Google Sheets                            | Deprecated - Google Sheets as a read/write database from PHP                   |
+| [php-google-api-example][php_g]     | Was a PHP library that updated Google Sheets                            | Deprecated - Google Sheets as a read/write authentication and authorization database used by PHP                   |
 | [sffaudio-podcasts-angular][ang_g]  | Was a replaced Angular version of Isomorphic-React-on-Heroku            | Deprecated - by use of React                                                   |
 
 [pod_h]: https://sffaudio.herokuapp.com/podcast/table
