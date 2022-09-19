@@ -61,8 +61,8 @@
 | [podcast-downloader][dsk_g]         | [Download Desktop EXE][dsk_w]                                           | Desktop exe podcast downloader<br>written in Lazarus/Delphi                    |
 | [react-hover-grid][rhg_g]           | [React-Hover-Grids NPM Package][rhg_n]                                  | React component for image grids in OO                                          |
 |                                     | [React-Hover-Grids Online Example][rhg_w] <sup>[sleeping]</sup>         | Nodejs Image processing, [example Hover GitHub][rhg_e]                         |
-| [gmap-dragdrop-react][map_g]        | [Gmap-DragDrops NPM Package][map_n]                                     | React component enabling Drag/Drop<br>to/from Google Maps, not RxJS            |
-|                                     | [Gmap-DragDrops Online Example][map_w] <sup>[sleeping]</sup>            | Object Oriented inheritance, [example Map GitHub][map_e]                       |
+| [gmap-dragdrop-react][map_g]        | [Gmap-DragDrop NPM Package][map_n]                                     | React component enabling Drag/Drop<br>to/from Google Maps, not RxJS            |
+|                                     | [Gmap-DragDrop Online Example][map_w] <sup>[sleeping]</sup>            | Object Oriented inheritance, [example Map GitHub][map_e]                       |
 | [Isomorphic-React-on-Heroku][iso_g] | [Heroku Search/Sort/Filter Podcasts][pod_h] -- [Google Sheet DB][pod_s] | [Podcast SFFaudio.com WordPress page][pod_w] JavaScript Prototypal Inheritance |
 |                                     | [Heroku Search/Sort/Filter PDFs][pdf_h] -- [Google Sheet DB][pdf_s]     | [PDF SFFaudio.com WordPress page][pdf_w] React, MongoDB, SSR                   |
 |                                     | [Heroku Search/Sort/Filter MP3s][rsd_h] -- [Google Sheet DB][rsd_s]     | [MP3 SFFaudio.com WordPress page][rsd_w] Google Sheet as a read-only database  |
