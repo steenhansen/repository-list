@@ -12,6 +12,7 @@
 | [Either-Monad][mon_g]                |                                                          | Either Monad                                                                                                                                                                                                                                                                                             |
 | [Validation-Monad][val_g]            |                                                          | Validation Monad                                                                                                                                                                                                                                                                                         |
 | [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                                                                                                                                                                                                                                                        |
+| [PHP-Immutable-Assoc ][php_a]          |                                                          | Immutable PHP Associative Arrays via Copy-On-Write                                                                                                                                                                                                                                                                                        |
 | [React Native Google Signin Verified  ][rnt_g]          |                                                          | Google Signin on React Native with server verifying user on  database queries                                                                                                                                                                                                                                                                                   |
 
 [rec_a]: https://play.google.com/store/apps/details?id=com.fonecook3
@@ -36,6 +37,7 @@
 [mon_g]: https://gist.github.com/steenhansen/f9a9e9eee2fd563e378d8ddfce98cf0a
 [val_g]: https://gist.github.com/steenhansen/5a0dbad5388a79ebb900b257fc7a129c
 [ram_g]: https://gist.github.com/steenhansen/3e8c320725c6196c9a259661473dec42
+[php_a]: https://gist.github.com/steenhansen/6b15623db6139c429c4fdf6f46ae9745
 [rnt_g]: https://github.com/steenhansen/react-native-google-signin-verified
 
 | Docker&nbsp;Containers&nbsp;and Databases | WebSite                                        | Technologies                                                                      |
