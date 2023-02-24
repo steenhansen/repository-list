@@ -3,7 +3,7 @@
 | [react-native-phone-recipes][rec_m]    | [Phone-Recipes on Google Play][rec_a]                          | Android, React Native, OAuth2, React-Hooks, Redux |
 | [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | Node.js, vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite, Github [CI/CD][rec_c] |
 | [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                                                                                                                                                                                           |
-| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w] <sup>[sleeping]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                                                                                                                                                       |
+| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w]<br> <sup>[free hosting]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                                                                                                                                                       |
 | [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJS, canvas, immutablejs                                                                                                                                                                                                                                                                                |
 | [crash-sms][sms_g]                   | [Online Site Monitor][sms_w] <sup>[sleeping]</sup>                            | Clojure, SMS, DynamoDB                                                                                                                                                                                                                                                                                   |
 | [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJS &amp; [Snap-Shot Tests](https://steenhansen.github.io/rxjs-label-maker/tests/testing-frame.html), labelled 'CHECK', that pass in Chrome, and now fail in Firefox                                                                                                                                    |
@@ -23,7 +23,8 @@
 [tcz_g]: https://github.com/steenhansen/type-czech
 [tcz_n]: https://www.npmjs.com/package/type-czech
 [aon_g]: https://github.com/steenhansen/type-czech-always-on
-[aon_w]: https://type-czech-always-on.herokuapp.com
+[aon_w]: https://type-czech-always-on.onrender.com/
+
 [brk_g]: https://github.com/steenhansen/rxjs-breakout
 [brk_w]: https://steenhansen.github.io/gh-pages/
 [sms_g]: https://github.com/steenhansen/crash-sms
@@ -67,19 +68,15 @@
 | [gmap-dragdrop-react][map_g]        | [Gmap-DragDrop NPM Package][map_n]                                     | React component enabling Drag/Drop<br>to/from Google Maps, not RxJS            |
 |                                     | [Gmap-DragDrop Online Example][map_w] <sup>[sleeping]</sup>            | Object Oriented inheritance, [example Map GitHub][map_e]                       |
 | [Isomorphic-React-on-Heroku][iso_g] | [Heroku Search/Sort/Filter Podcasts][pod_h] -- [Google Sheet DB][pod_s] | [Podcast SFFaudio.com WordPress page][pod_w] JavaScript Prototypal Inheritance |
-|                                     | [Heroku Search/Sort/Filter PDFs][pdf_h] -- [Google Sheet DB][pdf_s]     | [PDF SFFaudio.com WordPress page][pdf_w] React, MongoDB, SSR                   |
 |                                     | [Heroku Search/Sort/Filter MP3s][rsd_h] -- [Google Sheet DB][rsd_s]     | [MP3 SFFaudio.com WordPress page][rsd_w] Google Sheet as a read-only database  |
 | [php-google-api-example][php_g]     | Was a PHP library that updated Google Sheets                            | Deprecated - Google Sheets as a read/write authentication and authorization database used by PHP                   |
 | [sffaudio-podcasts-angular][ang_g]  | Was a replaced Angular version of Isomorphic-React-on-Heroku            | Deprecated - by use of React                                                   |
 
 [pod_h]: https://sffaudio.herokuapp.com/podcast/table
-[pdf_h]: https://sffaudio.herokuapp.com/pdf/table
 [rsd_h]: https://sffaudio.herokuapp.com/rsd/table
 [pod_s]: https://docs.google.com/spreadsheets/d/1cWtA1AaY83cBuU_6vt64adDeR-dfT-X1U5VgvCRVMAg/edit#gid=0
 [rsd_s]: https://docs.google.com/spreadsheets/d/1VFMgWy6wmTkFIpeNW-NkZdWmpz5iZcuULgMpjn8_QgU/edit#gid=0
-[pdf_s]: https://docs.google.com/spreadsheets/d/1sbQ8NR7hvcm4EjSlyhmte0rYtI_G3vnc1o5KLPAW2lc/edit#gid=0
 [pod_w]: https://www.sffaudio.com/the-sffaudio-podcast/
-[pdf_w]: https://www.sffaudio.com/public-domain-pdf-page/
 [rsd_w]: https://www.sffaudio.com/reading-short-and-deep/
 [elc_g]: https://github.com/steenhansen/electric-snakes
 [elc_w]: https://electric-snakes.herokuapp.com/create-game
