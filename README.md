@@ -3,7 +3,7 @@
 | [react-native-phone-recipes][rec_m]    | [Phone-Recipes on Google Play][rec_a]                          | Android, React Native, OAuth2, React-Hooks, Redux |
 | [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | Node.js, vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite, Github [CI/CD][rec_c] |
 | [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                                                                                                                                                                                           |
-| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w]<br> <sup>[free hosting]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                                                                                                                                                       |
+| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                                                                                                                                                       |
 | [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJS, canvas, immutablejs                                                                                                                                                                                                                                                                                |
 | [crash-sms][sms_g]                   | [Online Site Monitor][sms_w] <sup>[sleeping]</sup>                            | Clojure, SMS, DynamoDB                                                                                                                                                                                                                                                                                   |
 | [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJS &amp; [Snap-Shot Tests](https://steenhansen.github.io/rxjs-label-maker/tests/testing-frame.html), labelled 'CHECK', that pass in Chrome, and now fail in Firefox                                                                                                                                    |
@@ -66,7 +66,7 @@
 | [react-hover-grid][rhg_g]           | [React-Hover-Grids NPM Package][rhg_n]                                  | React component for image grids in OO                                          |
 |                                     | [React-Hover-Grids Online Example][rhg_w] <sup>[sleeping]</sup>         | Nodejs Image processing, [example Hover GitHub][rhg_e]                         |
 | [gmap-dragdrop-react][map_g]        | [Gmap-DragDrop NPM Package][map_n]                                     | React component enabling Drag/Drop<br>to/from Google Maps, not RxJS            |
-|                                     | [Gmap-DragDrop Online Example][map_w] <sup>[sleeping]</sup>            | Object Oriented inheritance, [example Map GitHub][map_e]                       |
+|                                     | [Gmap-DragDrop Online Example][map_w] <br> <sup>[150s free hosting cold start]</sup>             | Object Oriented inheritance, [example Map GitHub][map_e]                       |
 | [Isomorphic-React-on-Heroku][iso_g] | [Heroku Search/Sort/Filter Podcasts][pod_h] -- [Google Sheet DB][pod_s] | [Podcast SFFaudio.com WordPress page][pod_w] JavaScript Prototypal Inheritance |
 |                                     | [Heroku Search/Sort/Filter MP3s][rsd_h] -- [Google Sheet DB][rsd_s]     | [MP3 SFFaudio.com WordPress page][rsd_w] Google Sheet as a read-only database  |
 | [php-google-api-example][php_g]     | Was a PHP library that updated Google Sheets                            | Deprecated - Google Sheets as a read/write authentication and authorization database used by PHP                   |
@@ -88,7 +88,7 @@
 [rhg_e]: https://github.com/steenhansen/react-hover-grid-examples
 [map_g]: https://github.com/steenhansen/gmap-dragdrop-react
 [map_n]: https://www.npmjs.com/package/gmap-dragdrop-react
-[map_w]: https://gddr.herokuapp.com/maps
+[map_w]: https://gmap-dragdrop-examples.onrender.com/maps
 [map_e]: https://github.com/steenhansen/gmap-dragdrop-examples
 [iso_g]: https://github.com/steenhansen/Isomorphic-React-on-Heroku
 [php_g]: https://github.com/steenhansen/php-google-api-example
