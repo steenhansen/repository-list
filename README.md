@@ -1,6 +1,6 @@
 
 
-| Go&nbsp;Repository | Exe                                                  | Technologies                                                                                                                                                                                                                                                                                             | About|
+| Go<br>Repository | Exe                                                  | Technologies                                                                                                                                                                                                                                                                                             | About|
 | ------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------- |
 | [go-podcast-downloader][gpd_g]    | [podcast-downloader-exe.zip][gdo_w]    | Go channels, goroutines, and waitgroups                      | Podcast downloader for Windows console  |
 
@@ -9,7 +9,7 @@
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/podcast-downloader-exe.zip
 
 
-| Functional&nbsp;Repositories | WebSite                                                  | Technologies                                                                                                                                                                                                                                                                                             |About|
+| Functional<br>Repositories | WebSite                                                  | Technologies                                                                                                                                                                                                                                                                                             |About|
 | ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- |
 | [react-native-phone-recipes][rec_m]    | [play.google.com/store/apps][rec_a]                         | OAuth2, React-Hooks, Redux, React Native  |Android interface to Phone-Recipes app |
 | [type-czech-phone-recipes][rec_g]    | [phone-recipes.herokuapp.com][rec_w]                          | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba),  Github [CI/CD][rec_c] | Web interface to Phone-Recipes app |
@@ -55,7 +55,7 @@
 [php_a]: https://gist.github.com/steenhansen/6b15623db6139c429c4fdf6f46ae9745
 [rnt_g]: https://github.com/steenhansen/react-native-google-signin-verified
 
-| Docker &amp; Database Repositories | WebSite                                        | Technologies                | About                                                      |
+| Docker &amp;<br>Database<br>Repositories | WebSite                                        | Technologies                | About                                                      |
 | ----------------------------------------- | ---------------------------------------------- | ---------------------|------------------------------------------------------------ |
 | [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | On Linode                |
 | [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/r/steenhansen/sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | On Windows or Linode       |
@@ -75,7 +75,7 @@
 
 [sgr_j]: https://sffaudio-graph-ql.onrender.com/graphql?operationName=serch_ql&query=%0Aquery%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%7D%2C%0A%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%7D%2C%0A%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20book%20%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%20about%0A%20possiblebook%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20PdfMedia%20%7B%20ID%0A%20book%20%7B%20author%20title%20%7D%0A%20issues%20%7B%20url%20publisher%20pages%20%7D%20%7D%0A%20%7D%0A%7D%20&variables=%7B%20%22search_parameter%22%3A%20%22clarke%22%7D
 
-| OOP Repositories                  | WebSite                                                                 | Technologies                    | About                                                  |
+| OOP<br>Repositories                  | WebSite                                                                 | Technologies                    | About                                                  |
 | ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------|-------------------------------------------- |
 | [electric-snakes][elc_g]            | [electric-snakes.onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game |
 | [podcast-downloader][dsk_g]         | [podcast-downloader-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    |
