@@ -1,19 +1,30 @@
-| Functional&nbsp;GitHub&nbsp;Projects | WebSite                                                  | Technologies                                                                                                                                                                                                                                                                                             |
-| ------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [react-native-phone-recipes][rec_m]    | [Phone-Recipes on Google Play][rec_a]                          | Android, React Native, OAuth2, React-Hooks, Redux |
-| [type-czech-phone-recipes][rec_g]    | [Online Recipes][rec_w]                                  | Node.js, vite-plugin-ssr, OAuth2, Selenium, MongoDB, React-Hooks, Redux, [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba), Tailwind, Isomorphic HMR &amp; ESM for development via Vite, Github [CI/CD][rec_c] |
-| [type-czech][tcz_g]                  | [NPM Package][tcz_n]                                     | Javascript runtime type checking in the spirit of clojure.spec                                                                                                                                                                                                                                           |
-| [type-czech-always-on][aon_g]        | [Online Type-Czech Example][aon_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech runtime type checking example with on/off switch.<br>Checks Roman, Word, Float, and Integer number types                                                                                                                                                                                       |
-| [rxjs-breakout][brk_g]               | [Online Breakout][brk_w]                                 | RxJS, canvas, immutablejs                                                                                                                                                                                                                                                                                |
-| [crash-sms][sms_g]                   | [Online Site Monitor][sms_w] <sup>[sleeping]</sup>                            | Clojure, SMS, DynamoDB                                                                                                                                                                                                                                                                                   |
-| [rxjs-label-maker][lbl_g]            | [Online Example Label Maker][lbl_w]                      | RxJS &amp; [Snap-Shot Tests](https://steenhansen.github.io/rxjs-label-maker/tests/testing-frame.html), labelled 'CHECK', that pass in Chrome, and now fail in Firefox                                                                                                                                    |
-| [rxjs-drag-n-drop][drg_g]            | [Online RxJS Drag and Drop][drg_w]                       | RxJS                                                                                                                                                                                                                                                                                                     |
-|                                      | [Authorization Via RxJs Subject Variables][aut_c]        | RxJS Subjects &amp; BehaviorSubject                                                                                                                                                                                                                                                                      |     | [clojure-text-diff ][ctd_g] |     | Clojure |
-| [Either-Monad][mon_g]                |                                                          | Either Monad                                                                                                                                                                                                                                                                                             |
-| [Validation-Monad][val_g]            |                                                          | Validation Monad                                                                                                                                                                                                                                                                                         |
-| [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                                                                                                                                                                                                                                                        |
-| [PHP-Immutable-Assoc ][php_a]          |                                                          | Immutable PHP Associative Arrays via Copy-On-Write                                                                                                                                                                                                                                                                                        |
-| [React Native Google Signin Verified  ][rnt_g]          |                                                          | Google Signin on React Native with server verifying user on  database queries                                                                                                                                                                                                                                                                                   |
+
+
+| Go&nbsp;Repository | Exe                                                  | Technologies                                                                                                                                                                                                                                                                                             | About|
+| ------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------- |
+| [go-podcast-downloader][gpd_g]    | [podcast-downloader-exe.zip][gdo_w]    | Go channels, goroutines, and waitgroups                      | Podcast downloader for Windows console  |
+
+
+[gpd_g]: https://github.com/steenhansen/go-podcast-downloader
+[gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/podcast-downloader-exe.zip
+
+
+| Functional&nbsp;Repositories | WebSite                                                  | Technologies                                                                                                                                                                                                                                                                                             |About|
+| ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- |
+| [react-native-phone-recipes][rec_m]    | [play.google.com/store/apps][rec_a]                         | OAuth2, React-Hooks, Redux, React Native  |Android interface to Phone-Recipes app |
+| [type-czech-phone-recipes][rec_g]    | [phone-recipes.herokuapp.com][rec_w]                          | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://www.chromatic.com/library?appId=6269af43d179dc004af9a1ec&inviteToken=5fd55d68b13f4f51bc57632bcad949ba),  Github [CI/CD][rec_c] | Web interface to Phone-Recipes app |
+| [type-czech][tcz_g]                  | [npmjs.com/package/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec                                                                                                                                                                                                                                           |
+| [type-czech-always-on][aon_g]        | [type-czech-always-on.onrender.com][aon_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech, Ajax        | Type checking Roman, Word, Float, and Integer ajax variables                                                                                               |
+| [type-czech-canonical][can_g]        | [type-czech-canonical.onrender.com][can_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech                                     | Basic run time type checking example                                                 |
+| [rxjs-breakout][brk_g]               | [github.io/gh-pages][brk_w]                                 | RxJS, canvas, immutablejs   | Online breakout game  |
+| [crash-sms][sms_g]                   |                           | Clojure, SMS, DynamoDB   | Old website monitor that ran on Heroku  |
+| [rxjs-label-maker][lbl_g]            | [github.io/rxjs-label-maker][lbl_w]                      | RxJS &amp; Snap-Shot Tests | RxJS interface with validation example         |
+| [rxjs-drag-n-drop][drg_g]            | [github.io/rxjs-drag-n-drop][drg_w]                       | RxJS         | Basic RxJs drag-n-drop example                                                                                                                                                                                                                                                                                          |
+|                                      | [codepen.io/steen-hansen][aut_c]        | RxJS Subjects &amp; BehaviorSubject              | RxJS log in example                                                                                                                                                                                                                                                       |     | [clojure-text-diff ][ctd_g] |     | Clojure | Clojure |
+| [Either-Monad][mon_g]                |                                                          | Either Monad                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                      |
+| [Validation-Monad][val_g]            |                                                          | Validation Monad                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                     |
+| [Ramda-Transducers ][ram_g]          |                                                          | Ramda Transducers                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                        |
+| [React Native Google Signin Verified  ][rnt_g]          |                                                          | Google Signin, React Native                                                                                                                                                                       | Guide for using Google Signin with React Native                                                                                                                                                                                                                                                                                   |
 
 [rec_a]: https://play.google.com/store/apps/details?id=com.fonecook3
 [rec_m]: https://github.com/steenhansen/react-native-phone-recipes
@@ -25,10 +36,13 @@
 [aon_g]: https://github.com/steenhansen/type-czech-always-on
 [aon_w]: https://type-czech-always-on.onrender.com/
 
+[can_g]: https://github.com/steenhansen/type-czech-canonical
+[can_w]: https://type-czech-canonical.onrender.com/
+
+
 [brk_g]: https://github.com/steenhansen/rxjs-breakout
 [brk_w]: https://steenhansen.github.io/gh-pages/
 [sms_g]: https://github.com/steenhansen/crash-sms
-[sms_w]: https://fathomless-woodland-85635.herokuapp.com/
 [lbl_g]: https://github.com/steenhansen/rxjs-label-maker
 [lbl_w]: https://steenhansen.github.io/rxjs-label-maker/
 [drg_g]: https://github.com/steenhansen/rxjs-drag-n-drop
@@ -41,13 +55,13 @@
 [php_a]: https://gist.github.com/steenhansen/6b15623db6139c429c4fdf6f46ae9745
 [rnt_g]: https://github.com/steenhansen/react-native-google-signin-verified
 
-| Docker&nbsp;Containers&nbsp;and Databases | WebSite                                        | Technologies                                                                      |
-| ----------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------- |
-| [sffaudio-search-docker-compose ][sli_g]  | [Online Search SFF-Audio Content][sli_w]       | Docker-Compose on Linode<br>with Node.js, Neo4j-Graph-DB, SVG, SPA                |
-| [sffaudio-search-docker-run ][swi_g]      | [Docker Image][swi_d]                          | Docker-Run on local Windows<br>with Node.js, Neo4j-Graph-DB, SVG, SPA             |
-| [sffaudio-search-kubernetes][sku_g]       | [Docker Image][sku_d]                          | Kubernetes version of above Docker example<br> that costs $10 more a month to run |
-| [sffaudio-graph-ql ][sgr_g]               | [Online Graph-QL][sgr_w] <sup>[sleeping]</sup> | GraphQL - Press the triangular "Run"<br>button for an 'Arthur C. Clark' search    |
-|                                           | [Online JSON][sgr_j] <sup>[sleeping]</sup>     | PDF/Podcast/MP3s media that is written<br> by 'Arthur C. Clark'                   |
+| Docker &amp; Database Repositories | WebSite                                        | Technologies                | About                                                      |
+| ----------------------------------------- | ---------------------------------------------- | ---------------------|------------------------------------------------------------ |
+| [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | On Linode                |
+| [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/r/steenhansen/sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | On Windows or Linode       |
+| [sffaudio-search-kubernetes][sku_g]       | [hub.docker.com/r/steenhansen/sff-audio-kube][sku_d]                          | Kubernetes, Node.js, Neo4j-Graph-DB, SVG, SPA | On Linode  |
+| [sffaudio-graph-ql ][sgr_g]               | [sffaudio-graph-ql.onrender.com][sgr_w] <br> <sup>[150s free hosting cold start] | GraphQL, MongoDB    | 'Arthur C. Clark' GraphQL media via '&#9658;' run button   |
+|                                           | [sffaudio-graph-ql.onrender.com][sgr_j]<br> <sup>[150s free hosting cold start]     | GraphQL, MongoDB                  |'Arthur C. Clark' JSON media                  |
 
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
@@ -56,21 +70,23 @@
 [sku_g]: https://github.com/steenhansen/sffaudio-search-kubernetes
 [sku_d]: https://hub.docker.com/r/steenhansen/sff-audio-kube
 [sgr_g]: https://github.com/steenhansen/sffaudio-graph-ql
-[sgr_w]: https://sffaudio-graph-ql.herokuapp.com/graphiql?operationName=serch_ql&query=query%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20%20%20%20%20%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20book%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%2C%0A%20%20%20%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20possiblebook%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%2C%0A%20%20%20%20...%20on%20PdfMedia%20%7B%20ID%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20book%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20issues%20%7B%20url%20publisher%20pages%20%7D%20%20%20%7D%0A%20%20%7D%0A%7D%0A&variables=%7B%0A%20%20%22search_parameter%22%3A%20%22Clarke%22%0A%7D
-[sgr_j]: https://sffaudio-graph-ql.herokuapp.com/graphql?operationName=serch_ql&query=%0Aquery%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%7D%2C%0A%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%7D%2C%0A%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20book%20%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%20about%0A%20possiblebook%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20PdfMedia%20%7B%20ID%0A%20book%20%7B%20author%20title%20%7D%0A%20issues%20%7B%20url%20publisher%20pages%20%7D%20%7D%0A%20%7D%0A%7D%20&variables=%7B%20%22search_parameter%22%3A%20%22clarke%22%7D
+[sgr_w]: https://sffaudio-graph-ql.onrender.com/graphiql?operationName=serch_ql&query=query%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20%20%20%20%20%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20book%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%2C%0A%20%20%20%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20possiblebook%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%0A%20%20%7D%0A%7D%0A&variables=%7B%0A%20%20%22search_parameter%22%3A%20%22Clarke%22%0A%7D
 
-| OO GitHub Projects                  | WebSite                                                                 | Technologies                                                                   |
-| ----------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [electric-snakes][elc_g]            | [Online Multi-Computer Game][elc_w] <sup>[sleeping]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           |
-| [podcast-downloader][dsk_g]         | [Download Desktop EXE][dsk_w]                                           | Desktop exe podcast downloader<br>written in Lazarus/Delphi                    |
-| [react-hover-grid][rhg_g]           | [React-Hover-Grids NPM Package][rhg_n]                                  | React component for image grids in OO                                          |
-|                                     | [React-Hover-Grids Online Example][rhg_w] <sup>[sleeping]</sup>         | Nodejs Image processing, [example Hover GitHub][rhg_e]                         |
-| [gmap-dragdrop-react][map_g]        | [Gmap-DragDrop NPM Package][map_n]                                     | React component enabling Drag/Drop<br>to/from Google Maps, not RxJS            |
-|                                     | [Gmap-DragDrop Online Example][map_w] <br> <sup>[150s free hosting cold start]</sup>             | Object Oriented inheritance, [example Map GitHub][map_e]                       |
-| [Isomorphic-React-on-Heroku][iso_g] | [Heroku Search/Sort/Filter Podcasts][pod_h] -- [Google Sheet DB][pod_s] | [Podcast SFFaudio.com WordPress page][pod_w] JavaScript Prototypal Inheritance |
-|                                     | [Heroku Search/Sort/Filter MP3s][rsd_h] -- [Google Sheet DB][rsd_s]     | [MP3 SFFaudio.com WordPress page][rsd_w] Google Sheet as a read-only database  |
-| [php-google-api-example][php_g]     | Was a PHP library that updated Google Sheets                            | Deprecated - Google Sheets as a read/write authentication and authorization database used by PHP                   |
-| [sffaudio-podcasts-angular][ang_g]  | Was a replaced Angular version of Isomorphic-React-on-Heroku            | Deprecated - by use of React                                                   |
+
+[sgr_j]: https://sffaudio-graph-ql.onrender.com/graphql?operationName=serch_ql&query=%0Aquery%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%7D%2C%0A%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%7D%2C%0A%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20book%20%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%20about%0A%20possiblebook%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20PdfMedia%20%7B%20ID%0A%20book%20%7B%20author%20title%20%7D%0A%20issues%20%7B%20url%20publisher%20pages%20%7D%20%7D%0A%20%7D%0A%7D%20&variables=%7B%20%22search_parameter%22%3A%20%22clarke%22%7D
+
+| OOP Repositories                  | WebSite                                                                 | Technologies                    | About                                                  |
+| ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------|-------------------------------------------- |
+| [electric-snakes][elc_g]            | [electric-snakes.onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game |
+| [podcast-downloader][dsk_g]         | [podcast-downloader-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    |
+| [react-hover-grid][rhg_g]           | [npmjs.com/package/react-hover-grid][rhg_n]                                  | SSR React                                         | Image grids that automatically resize to match screen  |
+|    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid.onrender.com][rhg_w] <br> <sup>[150s free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
+| [gmap-dragdrop-react][map_g]        | [npmjs.com/package/gmap-dragdrop-react][map_n]                                     | React       |React component enabling Drag/Drop<br>to &amp; from Google Maps |
+|   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples.onrender.com][map_w] <br> <sup>[150s free hosting cold start]</sup>             | OOP                       |React component enabling Drag/Drop<br> between Google Maps |
+| [Isomorphic-React-on-Heroku][iso_g] | [sffaudio.herokuapp.com/podcast][pod_h] |   Prototypal Inheritance, SSR, MongoDb | Fast loading, searchable, and sortable podcast list|
+|                                     | [sffaudio.herokuapp.com/rsd][rsd_h]      | Prototypal Inheritance, SSR, MongoDb  | Fast loading, searchable, and sortable podcast list|
+| [php-google-api-example][php_g]     |                             | Deprecated PHP                   | Google Sheets as an authentication and authorization database|
+| [sffaudio-podcasts-angular][ang_g]  |            | Deprecated Angular                                                | Replaced by React   |
 
 [pod_h]: https://sffaudio.herokuapp.com/podcast/table
 [rsd_h]: https://sffaudio.herokuapp.com/rsd/table
@@ -79,12 +95,12 @@
 [pod_w]: https://www.sffaudio.com/the-sffaudio-podcast/
 [rsd_w]: https://www.sffaudio.com/reading-short-and-deep/
 [elc_g]: https://github.com/steenhansen/electric-snakes
-[elc_w]: https://electric-snakes.herokuapp.com/create-game
+[elc_w]: https://electric-snakes.onrender.com/create-game
 [dsk_g]: https://github.com/steenhansen/podcast-downloader
 [dsk_w]: https://github.com/steenhansen/podcast-downloader/raw/master/podcast-downloader-exes.zip
 [rhg_g]: https://github.com/steenhansen/react-hover-grid
 [rhg_n]: https://www.npmjs.com/package/react-hover-grid
-[rhg_w]: https://react-hover-grid.herokuapp.com
+[rhg_w]: https://react-hover-grid.onrender.com
 [rhg_e]: https://github.com/steenhansen/react-hover-grid-examples
 [map_g]: https://github.com/steenhansen/gmap-dragdrop-react
 [map_n]: https://www.npmjs.com/package/gmap-dragdrop-react
@@ -94,7 +110,9 @@
 [php_g]: https://github.com/steenhansen/php-google-api-example
 [ang_g]: https://github.com/steenhansen/sffaudio-podcasts-angular
 
-<div align="center">[sleeping] A slow to start free Heroku site</div>
+<br><br>
+ [150s free hosting cold start] indicates that the site is hosted for free on [render.com](https://render.com/). Free sites on render.com take 150 seconds to warm up.
+
 
 ---
 
