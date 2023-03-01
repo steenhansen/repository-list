@@ -77,14 +77,14 @@
 
 | OOP<br>Repositories                  | WebSite                                                                 | Technologies                    | About                                                  |
 | ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------|-------------------------------------------- |
-| [electric-snakes][elc_g]            | [electric-snakes.onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game |
-| [podcast-downloader][dsk_g]         | [podcast-downloader-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    |
-| [react-hover-grid][rhg_g]           | [npmjs.com/package/react-hover-grid][rhg_n]                                  | SSR React                                         | Image grids that automatically resize to match screen  |
-|    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid.onrender.com][rhg_w] <br> <sup>[150s free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
-| [gmap-dragdrop-react][map_g]        | [npmjs.com/package/gmap-dragdrop-react][map_n]                                     | React       |React component enabling Drag/Drop<br>to &amp; from Google Maps |
-|   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples.onrender.com][map_w] <br> <sup>[150s free hosting cold start]</sup>             | OOP                       |React component enabling Drag/Drop<br> between Google Maps |
-| [Isomorphic-React-on-Heroku][iso_g] | [sffaudio.herokuapp.com/podcast][pod_h] |   Prototypal Inheritance, SSR, MongoDb | Fast loading, searchable, and sortable podcast list|
-|                                     | [sffaudio.herokuapp.com/rsd][rsd_h]      | Prototypal Inheritance, SSR, MongoDb  | Fast loading, searchable, and sortable podcast list|
+| [electric-snakes][elc_g]            | [electric-snakes.<br>onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game |
+| [podcast-downloader][dsk_g]         | [podcast-downloader<br>-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    |
+| [react-hover-grid][rhg_g]           | [npmjs.com/package/<br>react-hover-grid][rhg_n]                                  | SSR React                                         | Image grids that automatically resize to match screen  |
+|    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid<br>.onrender.com][rhg_w] <br> <sup>[150s free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
+| [gmap-dragdrop-react][map_g]        | [npmjs.com/package/<br>gmap-dragdrop-react][map_n]                                     | React       |React component enabling Drag/Drop<br>to &amp; from Google Maps |
+|   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples<br>.onrender.com][map_w] <br> <sup>[150s free hosting cold start]</sup>             | OOP                       |React component enabling Drag/Drop<br> between Google Maps |
+| [Isomorphic-React-on-Heroku][iso_g] | [sffaudio.herokuapp<br>.com/podcast][pod_h] |   Prototypal Inheritance, SSR, MongoDb | Fast loading, searchable, and sortable podcast list|
+|                                     | [sffaudio.herokuapp<br>.com/rsd][rsd_h]      | Prototypal Inheritance, SSR, MongoDb  | Fast loading, searchable, and sortable podcast list|
 | [php-google-api-example][php_g]     |                             | Deprecated PHP                   | Google Sheets as an authentication and authorization database|
 | [sffaudio-podcasts-angular][ang_g]  |            | Deprecated Angular                                                | Replaced by React   |
 
