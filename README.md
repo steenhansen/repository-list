@@ -57,9 +57,9 @@
 
 | Docker &amp;<br>Database<br>Repositories | WebSite                                        | Technologies                | About                                                      |
 | ----------------------------------------- | ---------------------------------------------- | ---------------------|------------------------------------------------------------ |
-| [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | On Linode                |
-| [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | On Windows or Linode       |
-| [sffaudio-search-kubernetes][sku_g]       | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-kube][sku_d]                          | Kubernetes, Node.js, Neo4j-Graph-DB, SVG, SPA | On Linode  |
+| [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | Live Neo4j GraphDB running on Linode                |
+| [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | Windows or Linode example      |
+| [sffaudio-search-kubernetes][sku_g]       | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-kube][sku_d]                          | Kubernetes, Node.js, Neo4j-Graph-DB, SVG, SPA | Linode example  |
 | [sffaudio-graph-ql ][sgr_g]               | [sffaudio-graph-ql<br>.onrender.com][sgr_w] <br> <sup>[150s free hosting cold start] | GraphQL, MongoDB    | 'Arthur C. Clark' GraphQL media via '&#9658;' run button   |
 |                                           | [sffaudio-graph-ql<br>.onrender.com][sgr_j]<br> <sup>[150s free hosting cold start]     | GraphQL, MongoDB                  |'Arthur C. Clark' JSON media                  |
 
