@@ -77,7 +77,7 @@
 
 | OOP<br>Repositories                  | WebSite                                                                 | Technologies                    | About                                                  |
 | ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------|-------------------------------------------- |
-| [electric-snakes][elc_g]            | [electric-snakes.<br>onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game |
+| [electric-snakes][elc_g]            | [electric-snakes.<br>onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game, server decides which browser wins |
 | [podcast-downloader][dsk_g]         | [podcast-downloader<br>-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    |
 | [react-hover-grid][rhg_g]           | [npmjs.com/package/<br>react-hover-grid][rhg_n]                                  | SSR React                                         | Image grids that automatically resize to match screen  |
 |    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid<br>.onrender.com][rhg_w] <br> <sup>[150s free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
