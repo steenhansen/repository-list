@@ -2,7 +2,7 @@
 
 | Go<br>Repository | Exe                                                  | Technologies                                                                                                                                                                                                                                                                                             | About|
 | ------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------- |
-| [go-podcast<br>-downloader][gpd_g]    | [podcast-downloader-exe.zip][gdo_w]    | Go channels, goroutines, and waitgroups                      | Podcast downloader for Windows console  |
+| [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Fyne, Go channels, goroutines, and waitgroups                      | Podcast downloader for Windows console  |
 
 
 [gpd_g]: https://github.com/steenhansen/go-podcast-downloader
