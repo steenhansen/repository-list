@@ -6,7 +6,7 @@
 
 
 [gpd_g]: https://github.com/steenhansen/go-podcast-downloader
-[gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/podcast-downloader-exe.zip
+[gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
 
 
 | Functional<br>Repositories | WebSite                                                  | Technologies                                                                                                                                                                                                                                                                                             |About|
