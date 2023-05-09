@@ -5,7 +5,7 @@
 | [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Fyne, Go channels, goroutines, and waitgroups                      | Podcast downloader for Windows console and Gui |
 
 
-[gpd_g]: https://github.com/steenhansen/go-podcast-downloader
+[gpd_g]: https://github.com/steenhansen/go-podcast-downloader#screen-shot
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
 
 
