@@ -2,29 +2,26 @@
 
 
 
-### Phone-Recipes via both mobile &amp; browser apps. Edit and display multiple recipes with multiple stopwatches.
-| | |Repo|Site|Tech|
-|-|-|----------|-------|------------|
-| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | OAuth2, React-Hooks, Redux, **React Native**  |A
-| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page),  Github [CI/CD][rec_c] | 
+### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches.
+| | |Repo|Site|Tech|Tests|
+|-|-|----|----|----|-----|
+| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | OAuth2, React-Hooks, Redux, **React Native**  | |
+| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page),  Github [CI/CD][rec_c] | 12 Mocha <br>8 Vitest JSX<br>8 Selenium E2E |
 
 
 
-
-| Go Repo | Windows GUI Exe                                                  | Tech                                                                                                                                                                                                                                                                                             | About|
-| ------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------- |
-| [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Fyne, Go channels, goroutines, and waitgroups                      | Podcast downloader for Windows console and Gui |
 
 
 [gpd_g]: https://github.com/steenhansen/go-podcast-downloader#screen-shot
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
 
 
-| Functional Repos | Site                                                  | Tech                                                                                                                                                                                                                                                                                             |About|
-| ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- |
-| [type-czech][tcz_g]                  | [npmjs.com/package<br>/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec                                                                                                                                                                                                                                           |
-| [type-czech<br>-always-on][aon_g]        | [type-czech-always-on<br>.onrender.com][aon_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech, Ajax        | Type checking Roman, Word, Float, and Integer ajax variables in browser and server                                                                                             |
-| [type-czech<br>-canonical][can_g]        | [type-czech-canonical<br>.onrender.com][can_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech                                     | Simplest run time type checking example                                                 |
+| Functional Repos | Site                                                  | Tech                                                                                                                                                                                                                                                                                             |About|Tests|
+| ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- | --|
+| [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Go channels, Fyne,  goroutines, and waitgroups                      | Go podcast downloader for Windows console and Gui |20
+| [type-czech][tcz_g]                  | [npmjs.com/package<br>/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec with a tutorial of [67 pages of live editable examples](https://jsfiddle.net/steen_hansen/1Lshcept/?Example-Contents) on JsFiddle.                                                                |2444
+| [type-czech<br>-always-on][aon_g]        | [type-czech-always-on<br>.onrender.com][aon_w]<br> <sup>[150sec free hosting cold start]</sup> | TypeCzech, Ajax        | Type checking Roman, Word, Float, and Integer ajax variables in browser and server                                                                                             |
+| [type-czech<br>-canonical][can_g]        | [type-czech-canonical<br>.onrender.com][can_w]<br> <sup>[150sec free hosting cold start]</sup> | TypeCzech                                     | Simplest run time type checking example                                                 |
 | [rxjs-breakout][brk_g]               | [github.io/gh-pages][brk_w]                                 | RxJS, canvas, immutablejs   | Online breakout game  |
 | [crash-sms][sms_g]                   |                           | Clojure, SMS, DynamoDB   | Old website monitor that ran on Heroku  |
 | [rxjs-label<br>-maker][lbl_g]            | [github.io/<br>rxjs-label-maker][lbl_w]                      | RxJS &amp; Snap-Shot Tests | RxJS interface with validation example         |
@@ -69,8 +66,8 @@
 | [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | Live Neo4j GraphDB running on Linode                |
 | [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | Windows or Linode example      |
 | [sffaudio-search-kubernetes][sku_g]       | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-kube][sku_d]                          | Kubernetes, Node.js, Neo4j-Graph-DB, SVG, SPA | Linode example  |
-| [sffaudio-graph-ql ][sgr_g]               | [sffaudio-graph-ql<br>.onrender.com][sgr_w] <br> <sup>[150s free hosting cold start] | GraphQL, MongoDB    | 'Arthur C. Clark' GraphQL media via '&#9658;' run button   |
-|                                           | [sffaudio-graph-ql<br>.onrender.com][sgr_j]<br> <sup>[150s free hosting cold start]     | GraphQL, MongoDB                  |'Arthur C. Clark' JSON media                  |
+| [sffaudio-graph-ql ][sgr_g]               | [sffaudio-graph-ql<br>.onrender.com][sgr_w] <br> <sup>[150sec free hosting cold start] | GraphQL, MongoDB    | 'Arthur C. Clark' GraphQL media via '&#9658;' run button   |
+|                                           | [sffaudio-graph-ql<br>.onrender.com][sgr_j]<br> <sup>[150sec free hosting cold start]     | GraphQL, MongoDB                  |'Arthur C. Clark' JSON media                  |
 
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
@@ -84,14 +81,14 @@
 
 [sgr_j]: https://sffaudio-graph-ql.onrender.com/graphql?operationName=serch_ql&query=%0Aquery%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%7D%2C%0A%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%7D%2C%0A%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20book%20%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%20about%0A%20possiblebook%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20PdfMedia%20%7B%20ID%0A%20book%20%7B%20author%20title%20%7D%0A%20issues%20%7B%20url%20publisher%20pages%20%7D%20%7D%0A%20%7D%0A%7D%20&variables=%7B%20%22search_parameter%22%3A%20%22clarke%22%7D
 
-| OOP Repos                  | Site                                                                 | Tech                    | About                                                  |
-| ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------|-------------------------------------------- |
-| [electric-snakes][elc_g]            | [electric-snakes.<br>onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game, server decides which browser wins |
-| [podcast-downloader][dsk_g]         | [podcast-downloader<br>-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    |
+| OOP Repos                  | Site                                                                 | Tech                    | About                                                  |Tests
+| ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------|-------------------------------------------- |--|
+| [podcast-downloader][dsk_g]         | [podcast-downloader<br>-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    | 22
+| [electric-snakes][elc_g]            | [electric-snakes.<br>onrender.com][elc_w] <br> <sup>[150sec free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game, server decides which browser wins |
 | [react-hover-grid][rhg_g]           | [npmjs.com/package/<br>react-hover-grid][rhg_n]                                  | SSR React                                         | Image grids that automatically resize to match browser width  |
-|    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid<br>.onrender.com][rhg_w] <br> <sup>[150s free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
+|    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid<br>.onrender.com][rhg_w] <br> <sup>[150sec free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
 | [gmap-dragdrop-react][map_g]        | [npmjs.com/package/<br>gmap-dragdrop-react][map_n]                                     | React       |React component enabling Drag&amp;Drop<br>between &amp; on Google Maps |
-|   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples<br>.onrender.com][map_w] <br> <sup>[150s free hosting cold start]</sup>             | OOP                       | Example of Drag&amp;Drop<br> between &amp; on Google Maps |
+|   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples<br>.onrender.com][map_w] <br> <sup>[ 150sec free hosting cold start]</sup>             | OOP                       | Example of Drag&amp;Drop<br> between &amp; on Google Maps |
 | [Isomorphic-React-on-Heroku][iso_g] | [sffaudio.herokuapp<br>.com/podcast][pod_h] |   Prototypal Inheritance, SSR, MongoDb | Fast loading, searchable, and sortable podcast list|
 |                                     | [sffaudio.herokuapp<br>.com/rsd][rsd_h]      | Prototypal Inheritance, SSR, MongoDb  | Fast loading, searchable, and sortable podcast list|
 | [php-google-api-example][php_g]     |                             | Deprecated PHP                   | Google Sheets as an authentication and authorization database|
@@ -120,7 +117,7 @@
 [ang_g]: https://github.com/steenhansen/sffaudio-podcasts-angular
 
 <br><br>
- [150s free hosting cold start] indicates that the site is hosted for free on [render.com](https://render.com/). Free sites on render.com take 150 seconds to warm up.
+ [150sec free hosting cold start] indicates that the site is hosted for free on [render.com](https://render.com/). Free sites on render.com take 150 seconds to warm up.
 
 
 ---
