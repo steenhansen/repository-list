@@ -1,6 +1,17 @@
 
 
-| Go<br>Repository | Exe                                                  | Technologies                                                                                                                                                                                                                                                                                             | About|
+
+
+### Phone-Recipes via both mobile &amp; browser apps. Edit and display multiple recipes with multiple stopwatches.
+| | |Repo|Site|Tech|
+|-|-|----------|-------|------------|
+| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | OAuth2, React-Hooks, Redux, **React Native**  |A
+| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page),  Github [CI/CD][rec_c] | 
+
+
+
+
+| Go Repo | Windows GUI Exe                                                  | Tech                                                                                                                                                                                                                                                                                             | About|
 | ------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------- |
 | [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Fyne, Go channels, goroutines, and waitgroups                      | Podcast downloader for Windows console and Gui |
 
@@ -9,10 +20,8 @@
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
 
 
-| Functional<br>Repositories | WebSite                                                  | Technologies                                                                                                                                                                                                                                                                                             |About|
+| Functional Repos | Site                                                  | Tech                                                                                                                                                                                                                                                                                             |About|
 | ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- |
-| [react-native<br>-phone-recipes][rec_m]    | [play.google.com<br>/store/apps][rec_a]                         | OAuth2, React-Hooks, Redux, React Native  |Android interface to Phone-Recipes app |
-| [type-czech<br>-phone-recipes][rec_g]    | [phone-recipes.<br>herokuapp.com][rec_w]                          | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://www.chromatic.com/build?appId=6269af43d179dc004af9a1ec&number=1),  Github [CI/CD][rec_c] | Web interface to Phone-Recipes app (must be logged into Chromatic to see story book) |
 | [type-czech][tcz_g]                  | [npmjs.com/package<br>/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec                                                                                                                                                                                                                                           |
 | [type-czech<br>-always-on][aon_g]        | [type-czech-always-on<br>.onrender.com][aon_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech, Ajax        | Type checking Roman, Word, Float, and Integer ajax variables in browser and server                                                                                             |
 | [type-czech<br>-canonical][can_g]        | [type-czech-canonical<br>.onrender.com][can_w]<br> <sup>[150s free hosting cold start]</sup> | TypeCzech                                     | Simplest run time type checking example                                                 |
@@ -55,7 +64,7 @@
 [php_a]: https://gist.github.com/steenhansen/6b15623db6139c429c4fdf6f46ae9745
 [rnt_g]: https://github.com/steenhansen/react-native-google-signin-verified
 
-| Docker &amp;<br>Database<br>Repositories | WebSite                                        | Technologies                | About                                                      |
+| Docker &amp; Database Repos | Site                                        | Tech                | About                                                      |
 | ----------------------------------------- | ---------------------------------------------- | ---------------------|------------------------------------------------------------ |
 | [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | Live Neo4j GraphDB running on Linode                |
 | [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | Windows or Linode example      |
@@ -75,7 +84,7 @@
 
 [sgr_j]: https://sffaudio-graph-ql.onrender.com/graphql?operationName=serch_ql&query=%0Aquery%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%7D%2C%0A%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%7D%2C%0A%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20book%20%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%20about%0A%20possiblebook%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20PdfMedia%20%7B%20ID%0A%20book%20%7B%20author%20title%20%7D%0A%20issues%20%7B%20url%20publisher%20pages%20%7D%20%7D%0A%20%7D%0A%7D%20&variables=%7B%20%22search_parameter%22%3A%20%22clarke%22%7D
 
-| OOP<br>Repositories                  | WebSite                                                                 | Technologies                    | About                                                  |
+| OOP Repos                  | Site                                                                 | Tech                    | About                                                  |
 | ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------|-------------------------------------------- |
 | [electric-snakes][elc_g]            | [electric-snakes.<br>onrender.com][elc_w] <br> <sup>[150s free hosting cold start]</sup>               | Node.js, Typescript, websockets, Redux, immutable.js                           | Online Multi-Computer Snake Game, server decides which browser wins |
 | [podcast-downloader][dsk_g]         | [podcast-downloader<br>-exes.zip][dsk_w]                                           | Lazarus/Delphi RAD for Windows                   |Desktop exe podcast downloader    |
