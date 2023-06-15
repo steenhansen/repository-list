@@ -102,7 +102,7 @@
 [rsd_w]: https://www.sffaudio.com/reading-short-and-deep/
 [elc_g]: https://github.com/steenhansen/electric-snakes
 [elc_w]: https://electric-snakes.onrender.com/create-game
-[dsk_g]: https://github.com/steenhansen/podcast-downloader
+[dsk_g]: https://github.com/steenhansen/podcast-downloader#screen-shot
 [dsk_w]: https://github.com/steenhansen/podcast-downloader/raw/master/podcast-downloader-exes.zip
 [rhg_g]: https://github.com/steenhansen/react-hover-grid
 [rhg_n]: https://www.npmjs.com/package/react-hover-grid
