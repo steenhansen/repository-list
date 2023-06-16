@@ -88,7 +88,7 @@
 | [react-hover-grid][rhg_g]           | [npmjs.com/package/<br>react-hover-grid][rhg_n]                                  | SSR React                                         | Image grids that automatically resize to match browser width  |
 |    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid<br>.onrender.com][rhg_w] <br> <sup>[150sec free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
 | [gmap-dragdrop-react][map_g]        | [npmjs.com/package/<br>gmap-dragdrop-react][map_n]                                     | React       |React component enabling Drag&amp;Drop<br>between &amp; on Google Maps |
-|   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples<br>.onrender.com][map_w] <br> <sup>[ 150sec free hosting cold start]</sup>             | OOP                       | Example of Drag&amp;Drop<br> between &amp; on Google Maps |
+|   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples<br>.onrender.com][map_w] <br> <sup>[150sec free hosting cold start]</sup>             | OOP                       | Example of Drag&amp;Drop<br> between &amp; on Google Maps |
 | [Isomorphic-React-on-Heroku][iso_g] | [sffaudio.herokuapp<br>.com/podcast][pod_h] |   Prototypal Inheritance, SSR, MongoDb | Fast loading, searchable, and sortable podcast list|
 |                                     | [sffaudio.herokuapp<br>.com/rsd][rsd_h]      | Prototypal Inheritance, SSR, MongoDb  | Fast loading, searchable, and sortable podcast list|
 | [php-google-api-example][php_g]     |                             | Deprecated PHP                   | Google Sheets as an authentication and authorization database|
