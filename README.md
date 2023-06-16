@@ -5,7 +5,7 @@
 ### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches.
 | | |Repo|Site|Tech|Tests|
 |-|-|----|----|----|-----|
-| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | OAuth2, React-Hooks, Redux, **React Native**  | |
+| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux   | |
 | |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page),  Github [CI/CD][rec_c] | 12 Mocha <br>8 Vitest JSX<br>8 Selenium E2E |
 
 
