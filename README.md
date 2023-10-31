@@ -6,7 +6,7 @@
 | | |Repo|Site|Tech|Tests|
 |-|-|----|----|----|-----|
 | |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux   | |
-| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, Selenium, <br> [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page),  Github [CI/CD][rec_c] | 12 Mocha <br>8 Vitest JSX<br>8 Selenium E2E |
+| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, <br> Selenium, [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page) | 12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
 
 
 
@@ -40,7 +40,6 @@
 [rec_m]: https://github.com/steenhansen/react-native-phone-recipes
 [rec_g]: https://github.com/steenhansen/type-czech-phone-recipes
 [rec_w]: https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com
-[rec_c]: https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/2728792562
 [tcz_g]: https://github.com/steenhansen/type-czech
 [tcz_n]: https://www.npmjs.com/package/type-czech
 [aon_g]: https://github.com/steenhansen/type-czech-always-on
