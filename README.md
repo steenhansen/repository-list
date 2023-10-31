@@ -21,7 +21,7 @@
 
 | Functional Repos | Site                                                  | Tech                                                                                                                                                                                                                                                                                             |About|Tests|
 | ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- | --|
-| [elixir-liveview<br>-snake][esg_g]    | [evening-eyrie.herokuapp.com][esg_w]    | Elixir Phoenix LiveView SVG                     | Elixir multi-player snake game with minimal Javascript | 0
+| [elixir-liveview<br>-snake][esg_g]    | [evening-eyrie.herokuapp.com][esg_w]    | Elixir, Phoenix, LiveView, SVG                     | Elixir multi-player snake game with minimal Javascript | 0
 | [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Go channels, Fyne,  goroutines, and waitgroups                      | Go podcast downloader for Windows console and Gui |20
 | [type-czech][tcz_g]                  | [npmjs.com/package<br>/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec with a tutorial of [67 pages of live editable examples](https://jsfiddle.net/steen_hansen/1Lshcept/?Example-Contents) on JsFiddle.                                                                |2444
 | [type-czech<br>-always-on][aon_g]        | [type-czech-always-on<br>.onrender.com][aon_w]<br> <sup>[150sec free hosting cold start]</sup> | TypeCzech, Ajax        | Type checking Roman, Word, Float, and Integer ajax variables in browser and server                                                                                             |
@@ -43,10 +43,10 @@
 [tcz_g]: https://github.com/steenhansen/type-czech
 [tcz_n]: https://www.npmjs.com/package/type-czech
 [aon_g]: https://github.com/steenhansen/type-czech-always-on
-[aon_w]: https://type-czech-always-on.onrender.com/
+[aon_w]: https://type-czech-always-on.onrender.com/#freehosting-wait-for-at-least-150-seconds
 
 [can_g]: https://github.com/steenhansen/type-czech-canonical
-[can_w]: https://type-czech-canonical.onrender.com/
+[can_w]: https://type-czech-canonical.onrender.com/#freehosting-wait-for-at-least-150-seconds
 
 
 [brk_g]: https://github.com/steenhansen/rxjs-breakout
@@ -104,16 +104,16 @@
 [pod_w]: https://www.sffaudio.com/the-sffaudio-podcast/
 [rsd_w]: https://www.sffaudio.com/reading-short-and-deep/
 [elc_g]: https://github.com/steenhansen/electric-snakes
-[elc_w]: https://electric-snakes.onrender.com/create-game
+[elc_w]: https://electric-snakes.onrender.com/create-game/#freehosting-wait-for-at-least-150-seconds
 [dsk_g]: https://github.com/steenhansen/podcast-downloader#screen-shot
 [dsk_w]: https://github.com/steenhansen/podcast-downloader/raw/master/podcast-downloader-exes.zip
 [rhg_g]: https://github.com/steenhansen/react-hover-grid
 [rhg_n]: https://www.npmjs.com/package/react-hover-grid
-[rhg_w]: https://react-hover-grid.onrender.com
+[rhg_w]: https://react-hover-grid.onrender.com/#freehosting-wait-for-at-least-150-seconds
 [rhg_e]: https://github.com/steenhansen/react-hover-grid-examples
 [map_g]: https://github.com/steenhansen/gmap-dragdrop-react
 [map_n]: https://www.npmjs.com/package/gmap-dragdrop-react
-[map_w]: https://gmap-dragdrop-examples.onrender.com/maps
+[map_w]: https://gmap-dragdrop-examples.onrender.com/maps#freehosting-wait-for-at-least-150-seconds
 [map_e]: https://github.com/steenhansen/gmap-dragdrop-examples
 [iso_g]: https://github.com/steenhansen/Isomorphic-React-on-Heroku
 [php_g]: https://github.com/steenhansen/php-google-api-example
