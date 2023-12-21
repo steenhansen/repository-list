@@ -66,7 +66,7 @@
 
 | Docker &amp; Database Repos | Site                                        | Tech                | About                                                      |
 | ----------------------------------------- | ---------------------------------------------- | ---------------------|------------------------------------------------------------ |
-| [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | Live Neo4j GraphDB running on Linode                |
+| [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | Live Neo4j GraphDB running on Linode. API handles [Multiple authors][sli_m], [PDFs, and MP3s][sli_r].               |
 | [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | Windows or Linode example      |
 | [sffaudio-search-kubernetes][sku_g]       | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-kube][sku_d]                          | Kubernetes, Node.js, Neo4j-Graph-DB, SVG, SPA | Linode example  |
 | [sffaudio-graph-ql ][sgr_g]               | [sffaudio-graph-ql<br>.onrender.com][sgr_w] <br> <sup>[150sec free hosting cold start] | GraphQL, MongoDB    | 'Arthur C. Clark' GraphQL media via '&#9658;' run button   |
@@ -74,6 +74,8 @@
 
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
+[sli_m]: http://45.79.183.31/?book=sci-fi-private-eye&author=isaac-asimov,robert-silverberg,poul-anderson,fred-saberhagen,edward-wellen,philip-k-dick
+[sli_r]: http://45.79.183.31/?book=beyond-lies-the-wub&author=philip-k-dick&view=rsd&choice=1
 [swi_g]: https://github.com/steenhansen/sffaudio-search-docker-run
 [swi_d]: https://hub.docker.com/r/steenhansen/sff-audio-search
 [sku_g]: https://github.com/steenhansen/sffaudio-search-kubernetes
