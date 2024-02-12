@@ -5,8 +5,8 @@
 ### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches.
 | | |Repo|Site|Tech|Tests|
 |-|-|----|----|----|-----|
-| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux   | |
-| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, <br> Selenium, [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page) | 12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
+| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux, MongoDB   | |
+| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, MongoDB,<br> Selenium, [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page) | 12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
 
 
 
