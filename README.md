@@ -5,8 +5,8 @@
 ### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches.
 | | |Repo|Site|Tech|Tests|
 |-|-|----|----|----|-----|
-| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux   | |
-| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | OAuth2, React-Hooks, Redux, vite-plugin-ssr, <br> Selenium, [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page) | 12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
+| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux, MongoDB   | |
+| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | Node.js, OAuth2, React-Hooks, Redux, vite-plugin-ssr, MongoDB, Selenium, [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page) | 12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
 
 
 
@@ -24,7 +24,7 @@
 | [elixir-liveview<br>-snake][esg_g]    | [evening-eyrie.herokuapp.com][esg_w]    | Elixir, Phoenix, LiveView, SVG                     | Elixir multi-player snake game with minimal Javascript | 
 | [python-podcast<br>-downloader][ppd_g]    |     | Python                      | Python podcast downloader for Windows console |
 | [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Go channels, Fyne,  goroutines, and waitgroups                      | Go podcast downloader for Windows console and Gui |20
-| [type-czech][tcz_g]                  | [npmjs.com/package<br>/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec with a tutorial of [75 pages of live editable examples](https://jsfiddle.net/steen_hansen/1Lshcept/?Example-Contents) on JsFiddle.                                                                |[2444](https://github.com/steenhansen/type-czech#run-2444-tests)
+| [type-czech][tcz_g]                  | [npmjs.com/package<br>/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec with a tutorial of [75 pages of live editable examples](https://jsfiddle.net/steen_hansen/1Lshcept/?Example-Contents) on JsFiddle.                                                                |[2456](https://github.com/steenhansen/type-czech#run-2444-tests)
 | [type-czech<br>-always-on][aon_g]        | [type-czech-always-on<br>.onrender.com][aon_w]<br> <sup>[150sec free hosting cold start]</sup> | TypeCzech, Ajax        | Type checking Roman, Word, Float, and Integer ajax variables in browser and server                                                                                             |
 | [type-czech<br>-canonical][can_g]        | [type-czech-canonical<br>.onrender.com][can_w]<br> <sup>[150sec free hosting cold start]</sup> | TypeCzech                                     | Simplest run time type checking example                                                 |
 | [rxjs-breakout][brk_g]               | [github.io/gh-pages][brk_w]                                 | RxJS, canvas, immutablejs   | Online breakout game  |
