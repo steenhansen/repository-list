@@ -67,11 +67,11 @@
 
 | Docker &amp; Database Repos | Site                                        | Tech                | About                                                      |
 | ----------------------------------------- | ---------------------------------------------- | ---------------------|------------------------------------------------------------ |
-| [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | Live Neo4j GraphDB running on Linode. API handles [Multiple authors][sli_m], [PDFs, and MP3s][sli_r].               |
+| [sffaudio-search-docker-compose ][sli_g]  | [45.79.183.31/<br>?author=isaac-asimov][sli_w]       | Docker-Compose, Node.js, Neo4j-Graph-DB, SVG, SPA                | Live Neo4j GraphDB running on Linode. API handles [Multiple authors][sli_m], [PDFs, and MP3s][sli_r]. Was second attempt to replace search on [sffaudio.com](sffaudio.com), a WordPress site.              |
 | [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | Windows or Linode example      |
 | [sffaudio-search-kubernetes][sku_g]       | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-kube][sku_d]                          | Kubernetes, Node.js, Neo4j-Graph-DB, SVG, SPA | Linode example  |
 | [sffaudio-graph-ql ][sgr_g]               | [sffaudio-graph-ql<br>.onrender.com][sgr_w] <br> <sup>[150sec free hosting cold start] | GraphQL, MongoDB    | 'Arthur C. Clark' GraphQL media via '&#9658;' run button   |
-|                                           | [sffaudio-graph-ql<br>.onrender.com][sgr_j]<br> <sup>[150sec free hosting cold start]     | GraphQL, MongoDB                  |'Arthur C. Clark' JSON media                  |
+|                                           | [sffaudio-graph-ql<br>.onrender.com][sgr_j]<br> <sup>[150sec free hosting cold start]     | GraphQL, MongoDB                  | First attempt to replace search on [sffaudio.com](sffaudio.com), a WordPress site.
 
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
@@ -95,10 +95,10 @@
 |    [react-hover-grid-examples][rhg_e]                                  | [react-hover-grid<br>.onrender.com][rhg_w] <br> <sup>[150sec free hosting cold start]</sup>           |        GraphicsMagick, Sharp           |Nodejs Image processing |
 | [gmap-dragdrop-react][map_g]        | [npmjs.com/package/<br>gmap-dragdrop-react][map_n]                                     | React       |React component enabling Drag&amp;Drop<br>between &amp; on Google Maps |
 |   [gmap-dragdrop-examples][map_e]                                | [gmap-dragdrop-examples<br>.onrender.com][map_w] <br> <sup>[150sec free hosting cold start]</sup>             | OOP                       | Example of Drag&amp;Drop<br> between &amp; on Google Maps |
-| [Isomorphic-React-on-Heroku][iso_g] | [sffaudio.herokuapp<br>.com/podcast][pod_h] |   Prototypal Inheritance, SSR, MongoDb | Fast loading, searchable, and sortable podcast list|
-|                                     | [sffaudio.herokuapp<br>.com/rsd][rsd_h]      | Prototypal Inheritance, SSR, MongoDb  | Fast loading, searchable, and sortable podcast list|
-| [php-google-api-example][php_g]     |                             | Deprecated PHP                   | Google Sheets as an authentication and authorization database|
-| [sffaudio-podcasts-angular][ang_g]  |            | Deprecated Angular                                                | Replaced by React   |
+| [Isomorphic-React-on-Heroku][iso_g] | [sffaudio.herokuapp<br>.com/podcast][pod_h] |   Prototypal Inheritance, SSR, MongoDb | Fast loading, searchable, and sortable podcast list for WordPress inclusion|
+|                                     | [sffaudio.herokuapp<br>.com/rsd][rsd_h]      | Prototypal Inheritance, SSR, MongoDb  | Fast loading, searchable, and sortable podcast list for WordPress inclusion|
+| [php-google-api-example][php_g]     |                             | Deprecated PHP                   | Google Sheets as user authentication and authorization database for a WordPress site|
+| [sffaudio-podcasts-angular][ang_g]  |            | Deprecated Angular                                                | WordPress page replaced by React   |
 
 [pod_h]: https://sffaudio.herokuapp.com/podcast/table
 [rsd_h]: https://sffaudio.herokuapp.com/rsd/table
