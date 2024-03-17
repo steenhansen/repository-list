@@ -3,6 +3,7 @@
 
 
 ### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches.
+![](images/android-web-combo.jpg)
 | | |Repo|Site|Tech|Tests|
 |-|-|----|----|----|-----|
 | |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux, MongoDB   | |
