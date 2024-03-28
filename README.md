@@ -1,6 +1,7 @@
 
 <a name="phone-recipes"></a>
 
+<br> 
 
 ### Phone-Recipes app for mobile or browser.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/android-web-combo.jpg)
