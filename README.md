@@ -6,8 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/android-web-combo.jpg)
 | | |Repo|Site|Shared Tech|Different Tech|Tests|
 |-|-|----|----|----|-----|---|
-| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  |   React-Hooks, OAuth2, Redux, MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)   |**React Native** | |
-| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] |  React-Hooks, OAuth2, Redux, MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)| **Node.js**, vite-plugin-ssr, Selenium |12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
+| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | React-Hooks, OAuth2, Redux,<br>MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)|**React Native** | |
+| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] |  React-Hooks, OAuth2, Redux,<br>MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)| **Node.js**,<br>vite-plugin-ssr|Selenium E2E,<br>Vitest JSX &amp; Mocha JS |
 
 
 
