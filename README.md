@@ -4,11 +4,11 @@
 
 ### Phone-Recipes app for mobile or browser.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/android-web-combo.jpg)
-| |Repo|Site|Shared Tech|Different Tech|Tests|
-|-|----|----|----|-----|---|
-|**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | React-Hooks, OAuth2, Redux,<br>MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)|**React Native** | |
-|**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] |  React-Hooks, OAuth2, Redux,<br>MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)| **Node.js**,<br>vite-plugin-ssr|Selenium E2E,<br>Vitest JSX &amp; Mocha JS |
 
+| |Repo|Site|Shared Tech|Different Tech| |
+|-|----|----|----|-----|---|
+|**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | React-Hooks, OAuth2, Redux,<br>MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)|**React Native** |Build, test, deploy<br> backend [CI/CD](https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924) |
+|**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] |  React-Hooks, OAuth2, Redux,<br>MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)| **Node.js**,<br>vite-plugin-ssr|TESTS: Mocha JS,<br> [Selenium E2E](https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium),<br>&amp; Vitest JSX |
 
 
 
