@@ -41,8 +41,8 @@
 | [React Native<br>Google Signin<br>Verified  ][rnt_g]          |                                                          | Google Signin, React Native                                                                                                                                                                       | Guide for using Google Signin with React Native                                                                                                                                                                                                                                                                                   |
 
 [rec_a]: https://play.google.com/store/apps/details?id=com.fonecook3
-[rec_m]: https://github.com/steenhansen/react-native-phone-recipes
-[rec_g]: https://github.com/steenhansen/type-czech-phone-recipes
+[rec_m]: https://github.com/steenhansen/react-native-phone-recipes#fast-start
+[rec_g]: https://github.com/steenhansen/type-czech-phone-recipes#fast-start
 [rec_w]: https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com
 [tcz_g]: https://github.com/steenhansen/type-czech
 [tcz_n]: https://www.npmjs.com/package/type-czech
