@@ -2,7 +2,7 @@
 <a name="phone-recipes"></a>
 
 
-### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches. Shared backend.
+### Phone-Recipes App for mobile or browser. Multiple recipes with multiple stopwatches. Shared backend.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/android-web-combo.jpg)
 | | |Repo|Site|Shared Tech|Different Tech|Tests|
 |-|-|----|----|----|-----|---|
