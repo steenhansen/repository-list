@@ -1,13 +1,13 @@
 
+<a name="phone-recipes"></a>
 
 
-
-### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches.
+### Phone-Recipes App via either mobile or browser. Edit and display multiple recipes with multiple stopwatches. Shared backend.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/android-web-combo.jpg)
-| | |Repo|Site|Tech|Tests|
-|-|-|----|----|----|-----|
-| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  | **React Native**, OAuth2, React-Hooks, Redux, MongoDB   | |
-| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] | Node.js, OAuth2, React-Hooks, Redux, vite-plugin-ssr, MongoDB, Selenium, [Storybook on Chromatic.com](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page) | 12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
+| | |Repo|Site|Shared Tech|Different Tech|Tests|
+|-|-|----|----|----|-----|---|
+| |**Android**| [react-native<br>-phone-recipes][rec_m] | [play.google.com<br>/store/apps][rec_a]  |   React-Hooks, OAuth2, Redux, MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)   |**React Native** | |
+| |**Web**| [type-czech<br>-phone-recipes][rec_g]   | [phone-recipes.<br>herokuapp.com][rec_w] |  React-Hooks, OAuth2, Redux, MongoDB, [Storybook](https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page)| **Node.js**, vite-plugin-ssr, Selenium |12 Mocha, 8 Vitest JSX, and 8 Selenium E2E |
 
 
 
