@@ -17,13 +17,17 @@
 [gpd_g]: https://github.com/steenhansen/go-podcast-downloader#screen-shot
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
 
-[esg_g]: https://github.com/steenhansen/elixir-liveview-snake
+[rpd_g]: https://github.com/steenhansen/rust-podcast-downloader#s
+
+[esg_g]: https://github.com/steenhansen/elixir-liveview-snake#s
+
 [esg_w]: https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name
 
 <br>
 
 | Functional Repos | Site                                                  | Tech                                                                                                                                                                                                                                                                                             |About|Tests|
 | ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- | --|
+| [rust-podcast-downloader][rpd_g] | | Rust | Rust podcast downloader with mouse driven Terminal User Interface | 
 | [elixir-liveview<br>-snake][esg_g]    | [evening-eyrie.herokuapp.com][esg_w]    | Elixir, Phoenix, LiveView, SVG                     | Elixir multi-player snake game with minimal Javascript | 
 | [python-podcast<br>-downloader][ppd_g]    |     | Python                      | Python podcast downloader for Windows console |
 | [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Go channels, Fyne,  goroutines, and waitgroups                      | Go podcast downloader for Windows console and Gui |20
@@ -74,7 +78,7 @@
 | [sffaudio-search-docker-run ][swi_g]      | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-search][swi_d]                          | Docker-Run, Node.js, Neo4j-Graph-DB, SVG, SPA             | Windows or Linode example      |
 | [sffaudio-search-kubernetes][sku_g]       | [hub.docker.com/<br>r/steenhansen/<br>sff-audio-kube][sku_d]                          | Kubernetes, Node.js, Neo4j-Graph-DB, SVG, SPA | Linode example  |
 | [sffaudio-graph-ql ][sgr_g]               | [sffaudio-graph-ql<br>.onrender.com][sgr_w] <br> <sup>[150sec free hosting cold start] | GraphQL, MongoDB    | 'Arthur C. Clark' GraphQL media via '&#9658;' run button   |
-|                                           | [sffaudio-graph-ql<br>.onrender.com][sgr_j]<br> <sup>[150sec free hosting cold start]     | GraphQL, MongoDB                  | First attempt to replace search on [sffaudio.com](sffaudio.com), a WordPress site.
+|                                           | [sffaudio-graph-ql<br>.onrender.com][sgr_j]<br> <sup>[150sec free hosting cold start]     | GraphQL, MongoDB                  | JSON output. <br><br> First attempt to replace search on [sffaudio.com](sffaudio.com), a WordPress site.
 
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
