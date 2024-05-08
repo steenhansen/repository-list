@@ -25,10 +25,24 @@
 
 <br>
 
+
+
+
+| Projects |   |
+| -        | - |
+| **Rust**: TUI, Ratatui <br> [GIT: rust-podcast-downloader][rpd_g] <br><br>Mouse driven podcast downloader with Terminal User Interface| [<img src="./images/ratatui-run.gif" height="100">](./images/ratatui-run.gif) | 
+| **Elixir** -  Phoenix, LiveView, SVG<br> [GIT : elixir-liveview-snake][esg_g]  <br><br>[LIVE SITE : multi-player multi-game online snake game ][esg_g]|  [<img src="./images/elixir.apng" height="90">](./images/Animation.apng) | 
+
+
+
+
+
+
+
 | Functional Repos | Site                                                  | Tech                                                                                                                                                                                                                                                                                             |About|Tests|
 | ------------------------------------ | -------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------- | --|
 | [rust-podcast-downloader][rpd_g] | | Rust | Rust podcast downloader with mouse driven Terminal User Interface | 
-| [elixir-liveview<br>-snake][esg_g]    | [evening-eyrie.herokuapp.com][esg_w]    | Elixir, Phoenix, LiveView, SVG                     | Elixir multi-player snake game with minimal Javascript | 
+| [elixir-liveview<br>-snake][esg_g]    | [evening-eyrie.herokuapp.com][esg_w]    | Elixir, Phoenix, LiveView, SVG                     | Elixir multi-player online snake game with minimal Javascript | 
 | [python-podcast<br>-downloader][ppd_g]    |     | Python                      | Python podcast downloader for Windows console |
 | [go-podcast<br>-downloader][gpd_g]    | [Gui-Podcast-Downloader.exe.zip][gdo_w]    | Go channels, Fyne,  goroutines, and waitgroups                      | Go podcast downloader for Windows console and Gui |20
 | [type-czech][tcz_g]                  | [npmjs.com/package<br>/type-czech][tcz_n]                                     | TypeCzech, NPM                                                                                                                                                                                                                                    | Javascript runtime type checking à la clojure.spec with a tutorial of [75 pages of live editable examples](https://jsfiddle.net/steen_hansen/1Lshcept/?Example-Contents) on JsFiddle.                                                                |[2456](https://github.com/steenhansen/type-czech#run-2444-tests)
