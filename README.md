@@ -31,7 +31,7 @@
 | Projects |   |
 | -        | - |
 | **Rust**: TUI, Ratatui <br> [GIT: rust-podcast-downloader][rpd_g] <br><br>Mouse driven podcast downloader with Terminal User Interface| [<img src="./images/ratatui-run.gif" height="100">](./images/ratatui-run.gif) | 
-| **Elixir** -  Phoenix, LiveView, SVG<br> [GIT : elixir-liveview-snake][esg_g]  <br><br>[LIVE SITE : multi-player multi-game online snake game ][esg_g]|  [<img src="./images/elixir.apng" height="90">](./images/elixir.apng) | 
+| **Elixir** -  Phoenix, LiveView, SVG<br> [GIT : elixir-liveview-snake][esg_g]  <br><br>[LIVE SITE : multi-player multi-game online snake game ][esg_g]|  [<img src="./images/elixir.webp" height="90">](./images/elixir.webp) | 
 
 
 
